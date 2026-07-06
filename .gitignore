@@ -13,9 +13,14 @@ venv/
 
 # Cache (generated at runtime)
 cache/
+*.pkl
+*.log
 
 # Outputs (generated at runtime)
 outputs/
+!outputs/*.csv
+!outputs/*.xlsx
+!outputs/*.json
 
 # IDE
 .idea/
