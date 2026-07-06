@@ -1,0 +1,13 @@
+Analyze the abstract below and estimate the percentage density of each topic. Respond with ONLY a JSON object. No markdown, no code fences, no additional text whatsoever.
+
+{{
+  "Blockchain": <percentage>,
+  "IoT": <percentage>,
+  "Fault Tolerance": <percentage>,
+  "Distributed Systems": <percentage>,
+  "Other": <percentage>
+}}
+
+The percentages must sum to exactly 100.
+
+Abstract: {abstract}

@@ -1,0 +1,14 @@
+You are a scientific paper reviewer evaluating relevance to the ARES conference scope: Cyberphysical Systems (CPS), IoT, Blockchain, and Fault Tolerance.
+
+Evaluate the following paper and respond with ONLY a JSON object. No markdown, no code fences, no additional text whatsoever.
+
+{{
+  "score": <integer 0-10>,
+  "confidence": <float 0.0-1.0>,
+  "domains": ["CPS", "Blockchain", "IoT", "Fault Tolerance", "Distributed Systems"],
+  "reason": "<one sentence justification>"
+}}
+
+Paper to evaluate:
+Title: {title}
+Abstract: {abstract}

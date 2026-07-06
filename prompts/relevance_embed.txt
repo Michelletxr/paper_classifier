@@ -1,0 +1,20 @@
+You are a scientific paper reviewer evaluating relevance to the ARES conference scope: Cyberphysical Systems (CPS), IoT, Blockchain, and Fault Tolerance.
+
+Below is the semantic similarity between this paper and each research domain (cosine similarity, 0.0 = completely unrelated, 1.0 = perfect match):
+
+{similarity_context}
+
+Use this similarity information as auxiliary context for your evaluation, but do NOT simply copy the similarity scores. Evaluate the actual content of the title and abstract.
+
+Respond with ONLY a JSON object. No markdown, no code fences, no additional text whatsoever.
+
+{{
+  "score": <integer 0-10>,
+  "confidence": <float 0.0-1.0>,
+  "domains": ["CPS", "Blockchain", "IoT", "Fault Tolerance", "Distributed Systems"],
+  "reason": "<one sentence justification>"
+}}
+
+Paper to evaluate:
+Title: {title}
+Abstract: {abstract}
