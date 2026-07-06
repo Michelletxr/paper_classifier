@@ -1,0 +1,23 @@
+{
+  "embedding_model": "BAAI/bge-large-en-v1.5",
+  "llm_models": [
+    "qwen",
+    "gemma3",
+    "llama3.2"
+  ],
+  "temperature": 0.0,
+  "top_k": 5,
+  "weights": {
+    "quali": 0.6,
+    "quant": 0.4
+  },
+  "nota_corte": 5.0,
+  "date": "2026-07-06",
+  "time_utc": "00:07:47",
+  "execution_time_seconds": 0.11,
+  "execution_time_minutes": 0.0,
+  "total_papers_collected": 131,
+  "papers_above_threshold": 60,
+  "papers_rejected": 71,
+  "agreement_stats": {}
+}
