@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on a vulnerability in IoT fingerprint authentication systems, which is most relevant to the IoT domain and has implications for fault tolerance in security-sensitive systems.",
+  "timestamp": "2026-07-05T19:27:47.736625+00:00"
+}

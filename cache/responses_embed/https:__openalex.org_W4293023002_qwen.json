@@ -1,0 +1,9 @@
+{
+  "score": 7,
+  "confidence": 0.6305,
+  "domains": [
+    "IoT"
+  ],
+  "reason": "The paper focuses on threat analysis for IoT systems and has a high similarity to the IoT domain, as indicated by the cosine similarity score of 0.6305.",
+  "timestamp": "2026-07-05T19:15:06.698975+00:00"
+}

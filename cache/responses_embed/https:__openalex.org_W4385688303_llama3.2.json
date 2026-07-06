@@ -1,0 +1,13 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper presents a novel framework leveraging AI for cybersecurity, which aligns with the CPS scope, but lacks explicit connections to Blockchain, IoT, and Fault Tolerance, and its focus on incident response and recovery lifecycle makes Distributed Systems less relevant.",
+  "timestamp": "2026-07-05T19:18:02.169478+00:00"
+}

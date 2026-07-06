@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "This paper aligns well with the ARES conference scope due to its focus on cyber-attack detection within a smart water distribution system, which is a clear CPS and IoT application.",
+  "timestamp": "2026-07-05T19:14:29.963320+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 2,
+  "confidence": 0.35,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper focuses on the lack of training opportunities for IoT developers in cybersecurity, which is relevant to both IoT and CPS domains.",
+  "timestamp": "2026-07-05T19:50:41.691317+00:00"
+}

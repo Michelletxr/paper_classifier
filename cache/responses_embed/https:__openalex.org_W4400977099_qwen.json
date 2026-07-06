@@ -1,0 +1,12 @@
+{
+  "score": 8,
+  "confidence": 0.7282,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on the security assessment of Cyber-Physical Systems, which aligns well with the CPS domain and has implications for IoT systems as well.",
+  "timestamp": "2026-07-05T19:24:55.697457+00:00"
+}

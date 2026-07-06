@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper proposes a graph-based framework for detecting attacks in IoT networks, leveraging machine learning techniques to distinguish between normal activities and attacks, which is relevant to the ARES conference scope on Cyberphysical Systems, IoT, and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:20:22.984637+00:00"
+}

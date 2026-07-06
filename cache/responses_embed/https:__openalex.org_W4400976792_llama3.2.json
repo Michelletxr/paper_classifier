@@ -1,0 +1,13 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper's focus on decentralized identity management, security, and usability aligns with the ARES conference scope, particularly in Distributed Systems and Blockchain.",
+  "timestamp": "2026-07-05T19:26:40.561559+00:00"
+}

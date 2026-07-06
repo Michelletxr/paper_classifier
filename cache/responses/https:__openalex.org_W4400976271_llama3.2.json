@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper addresses a relevant problem in CPS and IoT, but its focus on event-based data collection and analysis is not directly related to the broader scope of ARES conference.",
+  "timestamp": "2026-07-05T19:53:39.151406+00:00"
+}

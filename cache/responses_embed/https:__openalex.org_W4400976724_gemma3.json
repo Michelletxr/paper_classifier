@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on cybersecurity risk assessment and vulnerability scoring aligns reasonably well with the ARES conference scope, particularly regarding CPS and fault tolerance aspects of system security, although it lacks specific details about cyberphysical systems or IoT.",
+  "timestamp": "2026-07-05T19:23:54.804261+00:00"
+}

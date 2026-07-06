@@ -1,0 +1,12 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper addresses a critical issue in IoT networks, proposing a novel approach to trust score calculation that considers multiple attributes and provides dynamic updates, making it relevant to the ARES conference scope.",
+  "timestamp": "2026-07-05T19:50:15.303783+00:00"
+}

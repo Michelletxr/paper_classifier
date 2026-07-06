@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper proposes a proactive security approach leveraging digital twins and blockchain, which is relevant to the CPS and IoT domains, but lacks clear connections to Fault Tolerance and Distributed Systems.",
+  "timestamp": "2026-07-05T19:53:54.940866+00:00"
+}

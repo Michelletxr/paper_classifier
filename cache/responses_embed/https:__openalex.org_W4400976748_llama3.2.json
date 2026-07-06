@@ -1,0 +1,13 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper presents a platform for automated cyber threat intelligence information sharing, which is highly relevant to Cyberphysical Systems and contributes to the resilience of critical infrastructures and cyber-physical systems.",
+  "timestamp": "2026-07-05T19:24:43.021905+00:00"
+}

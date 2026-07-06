@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper is highly relevant to the ARES conference scope, focusing on Cyberphysical Systems (CPS) and IoT, with a strong emphasis on Fault Tolerance, but lacks direct connection to Blockchain.",
+  "timestamp": "2026-07-05T19:47:28.924309+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 2,
+  "confidence": 0.15,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper focuses on event-based data collection and analysis within a cyber range environment, which is relevant to CPS and IoT domains.",
+  "timestamp": "2026-07-05T19:53:34.935330+00:00"
+}

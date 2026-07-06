@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper's focus on trust management within IoT networks aligns well with the ARES conference scope, particularly regarding security and reliability aspects of CPS, although the use of MADM is somewhat tangential to core CPS research.",
+  "timestamp": "2026-07-05T19:21:01.139120+00:00"
+}

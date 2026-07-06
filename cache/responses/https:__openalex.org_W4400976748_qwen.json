@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cyber threat intelligence and information sharing, which is relevant to the Cyberphysical Systems (CPS) domain as it addresses critical infrastructures and cyber-physical systems.",
+  "timestamp": "2026-07-05T19:51:30.063867+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "This paper aligns well with the ARES conference scope by addressing cybersecurity considerations within intelligent infrastructures and specifically focusing on post-quantum cryptography, a critical area for CPS and IoT deployments.",
+  "timestamp": "2026-07-05T19:49:08.907155+00:00"
+}

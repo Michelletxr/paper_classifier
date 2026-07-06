@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.62,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on hardware trust anchors for IoT devices, which aligns well with the security concerns relevant to both CPS and IoT domains.",
+  "timestamp": "2026-07-05T19:26:16.467840+00:00"
+}

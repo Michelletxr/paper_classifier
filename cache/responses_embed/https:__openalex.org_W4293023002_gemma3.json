@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper directly addresses security concerns within IoT systems, aligning well with the ARES conference scope and particularly relevant to CPS due to its focus on physical access threats.",
+  "timestamp": "2026-07-05T19:15:12.675672+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on IoT malware analysis, which is relevant to both the IoT domain and CPS systems that often incorporate IoT components.",
+  "timestamp": "2026-07-05T19:45:40.759572+00:00"
+}

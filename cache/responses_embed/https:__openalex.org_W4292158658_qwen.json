@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "Blockchain",
+    "CPS"
+  ],
+  "reason": "The paper focuses on blockchain security incident reporting, which aligns well with the Blockchain domain and has implications for CPS systems that often use blockchain technologies.",
+  "timestamp": "2026-07-05T19:14:38.893027+00:00"
+}

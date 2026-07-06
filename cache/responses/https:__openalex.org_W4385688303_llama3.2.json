@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on AI for cybersecurity and incident response is relevant to CPS, IoT, and Fault Tolerance domains, but lacks direct connection to Blockchain domain",
+  "timestamp": "2026-07-05T19:48:55.199273+00:00"
+}

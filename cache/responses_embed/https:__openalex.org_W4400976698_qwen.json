@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.645,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on integrating STPA for safety, security, and resilience co-engineering in complex systems, which aligns well with the CPS domain as it deals with cyber-safe positions in a system context. The relevance to IoT is indirect through its application in photovoltaic plants, while Blockchain's similarity is low due to lack of direct integration. Fault Tolerance is relevant given the focus on resilience modes and UCAs.",
+  "timestamp": "2026-07-05T19:27:38.866258+00:00"
+}

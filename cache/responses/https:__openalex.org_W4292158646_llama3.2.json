@@ -1,0 +1,12 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper addresses a relevant issue in IoT security and proposes a blockchain-based solution, aligning with the ARES conference scope.",
+  "timestamp": "2026-07-05T19:48:39.782516+00:00"
+}

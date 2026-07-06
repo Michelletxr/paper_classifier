@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cyber defense and assessment in cyberspace, which aligns well with the CPS domain as it deals with operational assessments in a complex system environment.",
+  "timestamp": "2026-07-05T19:28:58.354854+00:00"
+}

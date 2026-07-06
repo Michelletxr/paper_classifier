@@ -1,0 +1,13 @@
+{
+  "score": 4,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper focuses on cybersecurity education and training, which does not directly align with the domains of CPS, Blockchain, IoT, Fault Tolerance, or Distributed Systems. The similarity to CPS is due to the general focus on skills frameworks and professional roles, but it is not strong enough to justify a high score.",
+  "timestamp": "2026-07-05T19:22:39.450508+00:00"
+}

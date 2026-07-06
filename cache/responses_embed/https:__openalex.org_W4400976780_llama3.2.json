@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cyber-resilience and data privacy mechanisms for Vehicle-to-Everything (V2X) technologies, which is highly relevant to the CPS and IoT domains, and also addresses fault tolerance in the context of V2X ecosystem security.",
+  "timestamp": "2026-07-05T19:25:45.396721+00:00"
+}

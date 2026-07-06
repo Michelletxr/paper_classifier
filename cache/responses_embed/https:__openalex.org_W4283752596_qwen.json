@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on challenges related to cyber threat and vulnerability identification, which is relevant to the cybersecurity aspects of CPS, IoT, and Fault Tolerance domains.",
+  "timestamp": "2026-07-05T19:14:51.589301+00:00"
+}

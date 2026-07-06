@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on a semantic web-based approach for managing cybersecurity playbooks, which aligns well with the CPS domain as it involves management and coordination of resources in cyberphysical systems. The abstract mentions interoperability and sharing across organizations, which could be relevant to Fault Tolerance and Distributed Systems where ensuring reliability and fault tolerance is crucial.",
+  "timestamp": "2026-07-05T19:12:00.456698+00:00"
+}

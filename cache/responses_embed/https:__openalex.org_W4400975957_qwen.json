@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.51,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on threat attribution using DNS patterns, which has relevance to cybersecurity and could be applied in CPS systems for automated detection of cyber threats.",
+  "timestamp": "2026-07-05T19:25:04.871730+00:00"
+}

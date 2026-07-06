@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on cybersecurity in the context of Industry 4.0, which includes Cyber-Physical Systems (CPS), and discusses security controls relevant to IoT and Blockchain technologies.",
+  "timestamp": "2026-07-05T19:29:35.407675+00:00"
+}

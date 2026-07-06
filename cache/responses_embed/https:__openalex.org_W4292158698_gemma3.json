@@ -1,0 +1,13 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The abstract discusses cybersecurity investments and strategic planning, which aligns somewhat with CPS concerns around system resilience and security, though the specific focus on game theory is not directly relevant to the ARES conference scope.",
+  "timestamp": "2026-07-05T19:10:12.123567+00:00"
+}

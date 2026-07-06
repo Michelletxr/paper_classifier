@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.75,
+  "domains": [
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on the use of IOTA (a blockchain technology) in an IoT-Edge-Cloud continuum, highlighting its immutability and non-repudiation features which are central to both Blockchain and IoT domains.",
+  "timestamp": "2026-07-05T19:29:17.374034+00:00"
+}

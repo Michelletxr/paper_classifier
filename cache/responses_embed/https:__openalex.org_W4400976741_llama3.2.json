@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper addresses a specific security challenge in trusted execution environments (TEE) and proposes a novel countermeasure, jump address masking (JAM), to prevent TEE bypass attacks, which is relevant to the CPS and Fault Tolerance domains.",
+  "timestamp": "2026-07-05T19:30:08.765277+00:00"
+}

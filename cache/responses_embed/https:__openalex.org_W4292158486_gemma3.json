@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper's focus on cybercrime, virtual currencies, and threat detection aligns reasonably well with the ARES conference scope, particularly Blockchain and IoT aspects related to fraud prevention, although a deeper dive into CPS principles is lacking.",
+  "timestamp": "2026-07-05T19:16:06.308559+00:00"
+}

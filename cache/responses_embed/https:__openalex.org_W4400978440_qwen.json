@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper discusses fault trees, which are relevant to Fault Tolerance and Distributed Systems domains as they deal with system reliability and performance analysis.",
+  "timestamp": "2026-07-05T19:27:19.635213+00:00"
+}

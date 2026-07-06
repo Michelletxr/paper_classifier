@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on Cyber Situational Awareness (CSA) within the context of interconnected military domains aligns strongly with CPS principles and the increasing importance of IoT-enabled data collection for defense applications.",
+  "timestamp": "2026-07-05T19:26:28.702806+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on Cyber Threat Intelligence and leveraging LLMs for MITRE ATT&CK technique extraction aligns well with the CPS domain by applying AI to security analysis, particularly relevant given the increasing reliance of IoT devices on CTI.",
+  "timestamp": "2026-07-05T19:30:35.150441+00:00"
+}

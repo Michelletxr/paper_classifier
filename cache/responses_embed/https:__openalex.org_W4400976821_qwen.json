@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on a Knowledge Representation and Reasoning system for cybersecurity, which aligns well with the CPS domain due to its relevance in military and cyber defense applications.",
+  "timestamp": "2026-07-05T19:25:58.021403+00:00"
+}

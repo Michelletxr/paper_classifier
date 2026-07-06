@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Cybersecurity"
+  ],
+  "reason": "The paper's focus on CTI for critical infrastructures and cyber-physical systems aligns well with the ARES conference scope, particularly regarding CPS and IoT security challenges, although the blockchain component is minimal.",
+  "timestamp": "2026-07-05T19:24:40.731846+00:00"
+}

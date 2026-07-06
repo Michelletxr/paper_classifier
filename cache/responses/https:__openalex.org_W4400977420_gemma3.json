@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "This paper directly addresses a critical issue in CPS – IoT device security and reliability – by proposing a novel tool for firmware analysis, aligning well with the ARES conference scope.",
+  "timestamp": "2026-07-05T19:51:57.641971+00:00"
+}

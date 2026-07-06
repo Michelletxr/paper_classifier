@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While relevant to cybersecurity within energy systems, the paper's focus on culture and a specific historical context (pandemic & war) limits its direct applicability to core ARES CPS research areas like fault tolerance or distributed systems.",
+  "timestamp": "2026-07-05T19:47:50.867867+00:00"
+}

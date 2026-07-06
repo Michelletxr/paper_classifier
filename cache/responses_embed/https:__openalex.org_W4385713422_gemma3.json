@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on interdependent critical infrastructures and cyber-physical threats aligns strongly with the ARES conference scope of CPS and IoT, particularly given the potential for cascading effects within these systems.",
+  "timestamp": "2026-07-05T19:23:09.615442+00:00"
+}

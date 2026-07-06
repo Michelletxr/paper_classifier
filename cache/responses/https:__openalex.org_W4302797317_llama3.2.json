@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on assessing the cyber-security culture of the Energy Sector (EPES) aligns with the ARES conference scope, particularly in Cyberphysical Systems and IoT.",
+  "timestamp": "2026-07-05T19:47:52.641887+00:00"
+}

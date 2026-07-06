@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Fault Tolerance",
+    "IoT"
+  ],
+  "reason": "This paper aligns well with the ARES conference scope due to its focus on a fault-tolerant SDN solution, directly addressing concerns relevant to CPS and IoT security challenges.",
+  "timestamp": "2026-07-05T19:12:19.544106+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper's focus on Variational Auto-Encoders and cybersecurity anomaly detection is not directly related to the ARES conference scope, but its exploration of suitable priors for improved performance is relevant to Distributed Systems.",
+  "timestamp": "2026-07-05T19:29:59.312579+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "This paper directly addresses a relevant intersection of Blockchain and IoT, proposing a consensus algorithm specifically designed for secure and scalable distributed systems within the IoT context, aligning well with ARES's scope.",
+  "timestamp": "2026-07-05T19:11:23.973396+00:00"
+}

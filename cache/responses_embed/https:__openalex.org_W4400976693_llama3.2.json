@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on creating a cybersecurity testing environment for 5G and IoT networks, with an emphasis on identifying vulnerabilities and simulating real-world scenarios, aligns well with the ARES conference scope.",
+  "timestamp": "2026-07-05T19:25:54.304026+00:00"
+}

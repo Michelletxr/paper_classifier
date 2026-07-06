@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on Cyber Situational Awareness (CSA) and its importance in cyber defence, which is relevant to the ARES conference scope.",
+  "timestamp": "2026-07-05T19:52:34.666474+00:00"
+}

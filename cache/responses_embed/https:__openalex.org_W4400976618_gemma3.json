@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While the paper touches on cybersecurity challenges relevant to digital society and workforce development, its focus on curriculum design and alignment with industry demands through keyword extraction is weakly connected to the core themes of CPS, IoT, or fault tolerance within the ARES conference scope.",
+  "timestamp": "2026-07-05T19:29:48.209232+00:00"
+}

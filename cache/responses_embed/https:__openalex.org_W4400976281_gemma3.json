@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While the paper touches on cybersecurity awareness and resilience – relevant to CPS and IoT – it lacks specific technical details or innovations that would strongly align with ARES' focus on advanced systems design or fault tolerance.",
+  "timestamp": "2026-07-05T19:28:43.095937+00:00"
+}

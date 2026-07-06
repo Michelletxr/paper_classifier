@@ -1,0 +1,13 @@
+{
+  "score": 4,
+  "confidence": 0.2,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper focuses on a methodology and tool for cybercrime investigation process, which is not directly related to the ARES conference scope of Cyberphysical Systems, Blockchain, IoT, Fault Tolerance, and Distributed Systems.",
+  "timestamp": "2026-07-05T19:18:59.773957+00:00"
+}

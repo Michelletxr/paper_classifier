@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "This paper directly addresses a core concern within the ARES conference scope – IoT security in critical infrastructure – and demonstrates strong relevance to both CPS and IoT domains due to its focus on real-world vulnerabilities and systemic risks.",
+  "timestamp": "2026-07-05T19:27:59.589435+00:00"
+}

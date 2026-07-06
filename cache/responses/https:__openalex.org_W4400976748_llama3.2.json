@@ -1,0 +1,13 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper presents a relevant solution for integrating risk assessment in cyber threat intelligence information sharing, aligning with the ARES conference scope.",
+  "timestamp": "2026-07-05T19:51:34.911064+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper's focus on anomaly detection in cybersecurity and its exploration of hyperbolic graph embedding methods aligns with the ARES conference scope, particularly Distributed Systems.",
+  "timestamp": "2026-07-05T19:27:16.266284+00:00"
+}

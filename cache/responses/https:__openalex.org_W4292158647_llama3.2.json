@@ -1,0 +1,12 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "Relevance to CPS, IoT, and Fault Tolerance domains is high, but Blockchain domain seems less relevant",
+  "timestamp": "2026-07-05T19:45:50.363455+00:00"
+}

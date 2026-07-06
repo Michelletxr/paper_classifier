@@ -1,0 +1,10 @@
+{
+  "score": 2,
+  "confidence": 0.1,
+  "domains": [
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper is not relevant to the ARES conference scope as it focuses on darkweb marketplaces and cyber-crime products, which are outside the conference's topics of Cyberphysical Systems, IoT, Blockchain, and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:49:19.067723+00:00"
+}

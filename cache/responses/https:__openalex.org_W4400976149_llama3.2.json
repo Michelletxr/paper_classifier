@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper focuses on Industry 4.0 and Cybersecurity controls, which is relevant to the CPS scope, but lacks direct connection to Blockchain and Fault Tolerance domains.",
+  "timestamp": "2026-07-05T19:54:19.615081+00:00"
+}

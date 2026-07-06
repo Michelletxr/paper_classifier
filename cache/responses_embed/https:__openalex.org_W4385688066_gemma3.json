@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper’s focus on trust and identity management within the IoT ecosystem aligns well with ARES' scope, particularly concerning device security and resilience – aspects crucial for CPS and fault tolerance in interconnected systems.",
+  "timestamp": "2026-07-05T19:21:14.963143+00:00"
+}

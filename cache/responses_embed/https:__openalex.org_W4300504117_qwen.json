@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on a classification model for critical infrastructures in cyber ranges, which aligns well with the CPS domain and has implications for fault tolerance and distributed systems.",
+  "timestamp": "2026-07-05T19:12:57.352397+00:00"
+}

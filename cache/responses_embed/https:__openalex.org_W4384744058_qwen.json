@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cybersecurity risks in Industrial Control Systems (ICS), which are closely related to Cyberphysical Systems (CPS) and Industrial Internet of Things (IoT). The discussion also touches upon fault tolerance, as ensuring safety against cyberattacks is crucial for maintaining system reliability.",
+  "timestamp": "2026-07-05T19:21:38.098613+00:00"
+}

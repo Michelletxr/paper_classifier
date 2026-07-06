@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper addresses protection of critical infrastructures from combined cyber and physical threats, aligning with the CPS scope, and demonstrates a framework for detecting and forecasting such attacks, relevant to IoT and fault tolerance domains.",
+  "timestamp": "2026-07-05T19:23:20.279746+00:00"
+}

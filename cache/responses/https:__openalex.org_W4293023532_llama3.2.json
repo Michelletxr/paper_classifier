@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper is relevant to CPS, IoT, and Blockchain domains, but lacks direct connection to Fault Tolerance and Distributed Systems",
+  "timestamp": "2026-07-05T19:46:49.025886+00:00"
+}

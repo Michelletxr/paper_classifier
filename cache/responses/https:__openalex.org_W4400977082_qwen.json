@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper discusses IoT security risks in critical infrastructures, which aligns with the ARES conference scope on Cyberphysical Systems (CPS), and touches upon fault tolerance aspects relevant to distributed systems.",
+  "timestamp": "2026-07-05T19:53:19.785290+00:00"
+}

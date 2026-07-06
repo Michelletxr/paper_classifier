@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper addresses security challenges in the convergence of Metaverse and IoT, proposing a blockchain-based approach to ensure data confidentiality and integrity, which aligns with ARES conference scope.",
+  "timestamp": "2026-07-05T19:19:27.453388+00:00"
+}

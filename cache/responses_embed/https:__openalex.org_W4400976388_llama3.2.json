@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on the application of NLP in OSINT analysis, which is not directly related to CPS, IoT, or Fault Tolerance, but rather explores its potential for enhancing cyber situational awareness and mission-oriented decision making.",
+  "timestamp": "2026-07-05T19:27:34.343037+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.52,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on integrating a European Cybersecurity Skills Framework into curriculum design, which has implications for education and training systems but does not directly align with the core domains of CPS, Blockchain, IoT, or Fault Tolerance.",
+  "timestamp": "2026-07-05T19:13:42.896684+00:00"
+}

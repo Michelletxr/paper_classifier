@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on protecting EPES systems in the 5G area, which aligns with CPS and IoT domains, and proposes measures for early-stage detection and protection against cyber-security incidents, relevant to Fault Tolerance.",
+  "timestamp": "2026-07-05T19:12:39.243741+00:00"
+}

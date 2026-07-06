@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper discusses the application of Digital Twin technology in smart grids, which falls under Cyberphysical Systems (CPS) and is closely related to IoT due to its focus on critical infrastructure monitoring.",
+  "timestamp": "2026-07-05T19:17:38.416909+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.6543,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on leveraging deception-based digital twins and blockchain for enhancing security in the Internet of Vehicles (IoV), which aligns well with the Blockchain domain due to its use of blockchain technology, and IoT as it deals with connected systems. CPS relevance is lower but still significant given the IoV context.",
+  "timestamp": "2026-07-05T19:28:49.420843+00:00"
+}

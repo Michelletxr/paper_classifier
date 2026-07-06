@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper explores a relevant use case of blockchain (IOTA) within an IoT-Edge-Cloud continuum for achieving immutability and non-repudiation, aligning with the ARES conference's focus on CPS and IoT applications.",
+  "timestamp": "2026-07-05T19:54:01.967758+00:00"
+}

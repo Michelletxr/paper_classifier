@@ -1,0 +1,13 @@
+{
+  "score": 6,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper focuses on applying large language models to automate the process of extracting MITRE ATT&amp;CK techniques from cyber threat intelligence reports, which is not directly related to CPS, IoT, or Fault Tolerance, but rather explores a technique that could be applied in various domains",
+  "timestamp": "2026-07-05T19:30:37.973224+00:00"
+}

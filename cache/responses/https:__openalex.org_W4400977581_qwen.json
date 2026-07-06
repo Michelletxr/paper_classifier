@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on a blockchain-based multi-factor dynamic authentication mechanism, which is relevant to CPS and IoT for securing critical systems, and also addresses potential vulnerabilities in smart contracts, aligning with Blockchain domain.",
+  "timestamp": "2026-07-05T19:52:46.983988+00:00"
+}

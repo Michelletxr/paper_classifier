@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.75,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper focuses on IoT security risks in critical infrastructures, which aligns well with the domains of IoT and CPS as they both deal with interconnected systems that can be vulnerable to security threats.",
+  "timestamp": "2026-07-05T19:27:56.485532+00:00"
+}

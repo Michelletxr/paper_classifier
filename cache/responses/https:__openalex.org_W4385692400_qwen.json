@@ -1,0 +1,11 @@
+{
+  "score": 2,
+  "confidence": 0.1,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on the darkweb marketplaces for cyber-crime products, which does not directly relate to CPS, Blockchain, or IoT domains as they are not specifically addressing these areas in their research.",
+  "timestamp": "2026-07-05T19:49:14.260789+00:00"
+}

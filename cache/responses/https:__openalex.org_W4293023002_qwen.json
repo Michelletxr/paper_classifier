@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper focuses on threat analysis for IoT systems and mentions its application in the manufacturing industry, which aligns with the CPS domain.",
+  "timestamp": "2026-07-05T19:48:02.979995+00:00"
+}

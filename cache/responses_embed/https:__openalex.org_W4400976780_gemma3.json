@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper directly addresses cyber-resilience concerns within a vehicle-to-everything (V2X) system, aligning strongly with the CPS domain and incorporating relevant IoT aspects related to EV interactions and data exchange.",
+  "timestamp": "2026-07-05T19:25:42.946222+00:00"
+}

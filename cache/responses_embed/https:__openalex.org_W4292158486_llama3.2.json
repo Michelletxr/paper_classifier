@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper's focus on cyber-attacks, virtual currencies, and monitoring transactions aligns with the scope of CPS, Blockchain, and IoT, but lacks direct relevance to Fault Tolerance and Distributed Systems.",
+  "timestamp": "2026-07-05T19:16:10.133395+00:00"
+}

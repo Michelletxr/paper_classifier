@@ -1,0 +1,11 @@
+{
+  "score": 2,
+  "confidence": 0.45,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The abstract focuses on cybersecurity in the Czech National Qualifications Framework, which does not strongly align with the domains of CPS, Blockchain, or IoT as per the provided similarity scores.",
+  "timestamp": "2026-07-05T19:17:10.404807+00:00"
+}

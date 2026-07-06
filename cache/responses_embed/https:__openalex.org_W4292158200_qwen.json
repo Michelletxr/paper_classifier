@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.71,
+  "domains": [
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on improving consensus algorithms for IoT devices using blockchain technology, which aligns well with the high similarity to Blockchain and IoT domains.",
+  "timestamp": "2026-07-05T19:11:19.504307+00:00"
+}

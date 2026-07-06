@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper addresses a relevant issue – IoT security awareness and knowledge gaps – which aligns with the ARES conference's focus on CPS and IoT, though it lacks technical depth.",
+  "timestamp": "2026-07-05T19:50:44.231337+00:00"
+}

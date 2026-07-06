@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper focuses on designing guidelines for improving the effectiveness of cybersecurity awareness posters, which is relevant to CPS and IoT applications that require clear communication of safety information.",
+  "timestamp": "2026-07-05T19:11:14.524695+00:00"
+}

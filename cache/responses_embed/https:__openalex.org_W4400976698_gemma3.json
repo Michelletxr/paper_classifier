@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Fault Tolerance",
+    "IoT"
+  ],
+  "reason": "This paper aligns strongly with the ARES conference scope due to its application of STPA – a core CPS technique – for safety and resilience analysis within a complex system (photovoltaic plant), incorporating security considerations relevant to IoT-connected devices.",
+  "timestamp": "2026-07-05T19:27:42.082001+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 5,
+  "confidence": 0.6,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The abstract focuses on cybersecurity text classification, which is relevant to the CPS domain due to its emphasis on cyber security and potential applications in physical systems, as well as having some relevance to IoT for networked devices.",
+  "timestamp": "2026-07-05T19:15:48.979282+00:00"
+}

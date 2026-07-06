@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cybersecurity, which is relevant to the adversarial AI attacks discussed, and touches upon aspects of CPS (e.g., critical applications) and Fault Tolerance in its discussion of robustness against adversarial attacks.",
+  "timestamp": "2026-07-05T19:23:42.366839+00:00"
+}

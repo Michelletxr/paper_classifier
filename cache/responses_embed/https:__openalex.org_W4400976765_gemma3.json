@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper's focus on spoofing capacitive fingerprint sensors in IoT devices aligns well with the conference scope, particularly regarding security vulnerabilities within CPS and IoT systems.",
+  "timestamp": "2026-07-05T19:27:50.535951+00:00"
+}

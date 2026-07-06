@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper focuses on smart meters and their security in the context of critical infrastructure, which is relevant to Cyberphysical Systems (CPS) and IoT, but lacks direct connection to Blockchain and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:11:55.483315+00:00"
+}

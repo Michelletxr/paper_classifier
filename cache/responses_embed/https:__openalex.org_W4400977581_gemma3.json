@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "This paper’s focus on blockchain and dynamic authentication for security aligns well with the ARES conference scope, particularly within the Blockchain and CPS domains, although its application to industrial control systems (a potential CPS area) is somewhat broad.",
+  "timestamp": "2026-07-05T19:26:47.190748+00:00"
+}

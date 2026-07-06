@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper assesses the privacy impacts of cyber threats on vehicular networks, which is relevant to CPS and IoT, and also addresses a gap in current practices by integrating privacy risk into cyber risk management.",
+  "timestamp": "2026-07-05T19:20:09.148988+00:00"
+}

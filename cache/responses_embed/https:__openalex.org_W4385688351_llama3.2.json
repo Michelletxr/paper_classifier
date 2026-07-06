@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper's focus on Digital Twin technology for Cybersecurity Monitoring in Smart Grids aligns with the ARES conference scope, particularly in the domains of CPS and IoT.",
+  "timestamp": "2026-07-05T19:17:47.289861+00:00"
+}

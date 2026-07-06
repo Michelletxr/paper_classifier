@@ -1,0 +1,12 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper directly addresses a critical issue within the IoT domain – analyzing malware artifacts at scale – aligning well with the conference's focus on CPS and IoT security challenges.",
+  "timestamp": "2026-07-05T19:10:56.210192+00:00"
+}

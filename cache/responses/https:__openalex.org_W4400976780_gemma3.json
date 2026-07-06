@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper directly addresses cyber-security and data privacy concerns within a CPS context (V2X) and aligns with the conference's focus on IoT and potential fault tolerance implications of interconnected systems.",
+  "timestamp": "2026-07-05T19:52:07.080853+00:00"
+}

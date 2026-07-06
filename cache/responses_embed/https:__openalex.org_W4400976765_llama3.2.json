@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper addresses a critical security concern in IoT devices, specifically fingerprint spoofing, and proposes a novel material (Alginate) to challenge this issue, aligning with the ARES conference scope.",
+  "timestamp": "2026-07-05T19:27:52.772462+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cyber-security measures for EPES systems in a 5G environment, which aligns with the CPS domain and addresses potential vulnerabilities in IoT and Fault Tolerance aspects of such systems.",
+  "timestamp": "2026-07-05T19:46:39.122769+00:00"
+}

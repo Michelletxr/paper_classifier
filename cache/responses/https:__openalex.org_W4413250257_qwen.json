@@ -1,0 +1,11 @@
+{
+  "score": 4,
+  "confidence": 0.35,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on Cyber Situational Awareness with AI techniques but does not directly address CPS, Blockchain, or IoT domains as explicitly stated in the abstract and sections.",
+  "timestamp": "2026-07-05T19:54:22.902016+00:00"
+}

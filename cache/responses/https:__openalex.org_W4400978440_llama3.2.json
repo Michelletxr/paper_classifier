@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on fault trees for safety analysis is relevant to the CPS and Fault Tolerance domains, but its discussion of Machine Learning models seems tangential to the ARES conference scope.",
+  "timestamp": "2026-07-05T19:53:08.083491+00:00"
+}

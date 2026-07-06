@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "This paper aligns well with the ARES conference scope due to its focus on smart grids – a key CPS application involving IoT devices and cybersecurity concerns, particularly given the increasing regulatory pressure.",
+  "timestamp": "2026-07-05T19:17:43.843394+00:00"
+}

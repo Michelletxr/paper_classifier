@@ -1,0 +1,11 @@
+{
+  "score": 4,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper discusses applications of recommender systems in cybersecurity incident handling, which is more aligned with the domains of Cyberphysical Systems (CPS) and IoT rather than Distributed Systems or Fault Tolerance.",
+  "timestamp": "2026-07-05T19:10:37.164552+00:00"
+}

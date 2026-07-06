@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper is highly relevant to the CPS and IoT domains, as it focuses on anomaly detection in smart water distribution systems, a critical infrastructure that can be classified under both CPS and IoT. The approach also has implications for fault tolerance in such systems.",
+  "timestamp": "2026-07-05T19:14:34.033910+00:00"
+}

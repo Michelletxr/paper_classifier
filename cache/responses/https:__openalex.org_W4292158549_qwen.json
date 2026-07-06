@@ -1,0 +1,10 @@
+{
+  "score": 3,
+  "confidence": 0.25,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper focuses on smart meters, which are part of the CPS and IoT domains, but does not address Blockchain or Fault Tolerance.",
+  "timestamp": "2026-07-05T19:46:10.384435+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper addresses a critical issue in IoT security and proposes a threat analysis method, which is relevant to the ARES conference scope.",
+  "timestamp": "2026-07-05T19:48:07.399911+00:00"
+}

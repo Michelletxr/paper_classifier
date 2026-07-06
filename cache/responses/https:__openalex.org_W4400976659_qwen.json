@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on Ethereum and Hyperledger Fabric under DDoS attacks, which is relevant to the ARES conference scope of CPS, Blockchain, and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:51:21.607059+00:00"
+}

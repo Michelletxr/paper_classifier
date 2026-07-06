@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "This paper addresses a relevant problem in e-cash design, particularly concerning trust minimization within blockchain systems and could be valuable for CPS applications utilizing distributed ledgers.",
+  "timestamp": "2026-07-05T19:53:30.193789+00:00"
+}

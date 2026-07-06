@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on spectral analysis and its application in detecting cyberattacks, which aligns well with the CPS domain due to its relevance to cybersecurity within physical systems. The IoT domain is also relevant as it discusses medical IoT applications. While there is no direct mention of blockchain or fault tolerance, these domains could be indirectly related through network security considerations.",
+  "timestamp": "2026-07-05T19:26:08.058465+00:00"
+}

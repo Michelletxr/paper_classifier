@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on the deployment of cybersecurity controls in Industry 4.0, which is closely related to Cyberphysical Systems and IoT, highlighting the importance of security measures for organizations with CPS present.",
+  "timestamp": "2026-07-05T19:29:40.744112+00:00"
+}

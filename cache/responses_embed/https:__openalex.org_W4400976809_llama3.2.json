@@ -1,0 +1,13 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper presents a novel AI-based solution for detecting cyber-attacks, which is highly relevant to the CPS and IoT domains, but lacks direct connection to Blockchain and Fault Tolerance",
+  "timestamp": "2026-07-05T19:29:13.555004+00:00"
+}

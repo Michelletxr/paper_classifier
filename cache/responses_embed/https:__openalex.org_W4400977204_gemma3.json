@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper directly addresses scalability in IoT fingerprinting, a relevant challenge within the CPS domain and aligns well with the focus on improving IoT security and device recognition.",
+  "timestamp": "2026-07-05T19:25:16.224720+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "This paper aligns well with the ARES conference scope by proposing a SOAR framework specifically tailored for IoT security using digital twins, addressing a critical need in securing complex IoT environments and demonstrating practical application through attack simulations.",
+  "timestamp": "2026-07-05T19:10:27.997544+00:00"
+}

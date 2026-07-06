@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper aligns well with the ARES conference scope due to its focus on IoT network traffic classification and adversarial attacks, directly addressing security concerns within a cyberphysical system context.",
+  "timestamp": "2026-07-05T19:18:27.237172+00:00"
+}

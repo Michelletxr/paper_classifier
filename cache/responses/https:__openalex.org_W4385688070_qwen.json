@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper discusses the challenges faced by firmware security analysis tools for IoT devices, which is relevant to CPS and Fault Tolerance domains as it involves system design and security evaluation.",
+  "timestamp": "2026-07-05T19:50:34.323402+00:00"
+}

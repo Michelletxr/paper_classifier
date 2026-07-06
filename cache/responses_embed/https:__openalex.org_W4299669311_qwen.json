@@ -1,0 +1,13 @@
+{
+  "score": 8,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper focuses on access control policies in Intelligent Transportation Systems (ITS), which is relevant to both CPS and IoT domains, while also addressing distributed systems and fault tolerance aspects through its approach of dynamically compiling access control policies.",
+  "timestamp": "2026-07-05T19:13:12.433476+00:00"
+}

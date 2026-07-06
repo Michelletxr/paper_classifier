@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on Cyber Situational Awareness (CSA) and its importance in cyber defence, which aligns with the CPS scope, and also touches upon aspects of Fault Tolerance and IoT, but lacks direct relevance to Blockchain and Distributed Systems.",
+  "timestamp": "2026-07-05T19:26:31.196060+00:00"
+}

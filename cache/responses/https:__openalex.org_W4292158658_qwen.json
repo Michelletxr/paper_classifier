@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on blockchain security incident reporting, which is relevant to the Blockchain domain of ARES conference scope.",
+  "timestamp": "2026-07-05T19:47:55.628775+00:00"
+}

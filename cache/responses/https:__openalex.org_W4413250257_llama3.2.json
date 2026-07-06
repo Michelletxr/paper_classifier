@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper's focus on Cyber Situational Awareness and Threat Intelligence Analysis aligns with the ARES conference scope, but its emphasis on AI and NLP techniques may be too broad for a specialized CPS or Blockchain domain.",
+  "timestamp": "2026-07-05T19:54:28.081156+00:00"
+}

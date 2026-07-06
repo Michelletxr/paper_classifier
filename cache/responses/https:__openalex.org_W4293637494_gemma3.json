@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper presents a relevant approach to securing IoT devices using SOAR and digital twins, aligning with the ARES conference's focus on CPS and IoT security challenges.",
+  "timestamp": "2026-07-05T19:45:31.789729+00:00"
+}

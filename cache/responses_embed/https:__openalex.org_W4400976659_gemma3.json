@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper directly addresses blockchain's relevance to cyber-physical systems by evaluating Ethereum and Hyperledger Fabric under DDoS attacks, aligning strongly with the ARES conference scope and demonstrating a practical application of blockchain technology in a critical domain.",
+  "timestamp": "2026-07-05T19:24:31.520472+00:00"
+}

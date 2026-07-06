@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "This paper aligns well with the ARES conference scope by combining IoV (a CPS application) with blockchain for security, addressing a critical need in the rapidly growing IoT landscape.",
+  "timestamp": "2026-07-05T19:28:52.337654+00:00"
+}

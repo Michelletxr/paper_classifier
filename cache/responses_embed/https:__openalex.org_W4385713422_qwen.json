@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.6827,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper focuses on cyber-physical threats to interdependent critical infrastructures, which aligns well with the CPS domain and has implications for IoT and Blockchain systems.",
+  "timestamp": "2026-07-05T19:23:06.914567+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While the paper addresses cybersecurity – relevant to CPS due to its focus on skills and training – the core methodology of curriculum optimization using machine learning and text mining doesn't directly align with the ARES conference’s emphasis on cyberphysical systems or IoT, though it could inform design choices within those domains.",
+  "timestamp": "2026-07-05T19:23:27.379938+00:00"
+}

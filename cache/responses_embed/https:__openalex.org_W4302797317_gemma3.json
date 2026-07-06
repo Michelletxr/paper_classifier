@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While focused on cybersecurity within the energy sector (a relevant CPS domain), the paper's specific context of the pandemic and geopolitical events limits its direct applicability to core ARES themes like blockchain or fault tolerance.",
+  "timestamp": "2026-07-05T19:14:01.219414+00:00"
+}

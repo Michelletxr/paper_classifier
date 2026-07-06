@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on enhancing cybersecurity in a cyber-physical system context, which aligns with the CPS domain of ARES conference scope.",
+  "timestamp": "2026-07-05T19:52:55.181848+00:00"
+}

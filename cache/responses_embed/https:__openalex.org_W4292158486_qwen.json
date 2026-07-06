@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The abstract focuses on cyber threats involving virtual currencies, which aligns well with the Blockchain domain and has implications for cybersecurity in general.",
+  "timestamp": "2026-07-05T19:16:01.221048+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "Blockchain",
+    "CPS"
+  ],
+  "reason": "The paper's focus on a blockchain-based solution for critical time systems aligns with the ARES conference scope, particularly in the domains of CPS and Blockchain.",
+  "timestamp": "2026-07-05T19:29:31.721596+00:00"
+}

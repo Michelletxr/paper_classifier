@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper focuses on assessing the cyber-security culture in the Energy Sector, which is relevant to CPS and IoT, but lacks direct connection to Blockchain and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:14:04.910463+00:00"
+}

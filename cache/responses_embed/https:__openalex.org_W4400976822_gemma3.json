@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on cybersecurity curriculum development, particularly aligning with the ECSF and utilizing AI for optimization, has moderate relevance to CPS and IoT due to the increasing integration of these technologies into security training, though it doesn’t directly address core CPS or IoT challenges.",
+  "timestamp": "2026-07-05T19:24:49.943423+00:00"
+}

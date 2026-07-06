@@ -1,0 +1,12 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper demonstrates a clear alignment of the Pan-European Cybersecurity Incidents Information Sharing Platform with EU cybersecurity policy and regulatory advancements, showcasing its relevance to CPS and IoT domains.",
+  "timestamp": "2026-07-05T19:48:24.218795+00:00"
+}

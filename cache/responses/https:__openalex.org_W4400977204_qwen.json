@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on scalability issues in network fingerprinting for IoT, which is relevant to CPS and Fault Tolerance domains as well.",
+  "timestamp": "2026-07-05T19:51:46.321365+00:00"
+}

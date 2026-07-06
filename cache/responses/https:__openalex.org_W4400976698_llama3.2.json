@@ -1,0 +1,13 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper presents an innovative extension of the STPA method, incorporating a root-cause analysis element to improve resilience and cyber safety, making it relevant to the ARES conference scope.",
+  "timestamp": "2026-07-05T19:53:16.179000+00:00"
+}

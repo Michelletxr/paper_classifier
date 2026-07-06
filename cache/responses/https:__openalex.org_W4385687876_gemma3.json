@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper directly addresses the relevance of cybersecurity to CPS and IoT systems through a privacy risk assessment framework applied to CAVs, aligning well with ARES' focus on cyberphysical systems.",
+  "timestamp": "2026-07-05T19:49:49.286305+00:00"
+}

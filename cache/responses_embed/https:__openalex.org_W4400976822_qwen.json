@@ -1,0 +1,11 @@
+{
+  "score": 4,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on cybersecurity curriculum development, which has some relevance to CPS due to the integration of IoT and digitalization aspects, but does not directly address Fault Tolerance or Distributed Systems.",
+  "timestamp": "2026-07-05T19:24:46.656281+00:00"
+}

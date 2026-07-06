@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on leveraging the MITRE ATT&CK framework for cyber risk assessment, which aligns well with CPS and Fault Tolerance domains due to its relevance in cybersecurity and threat analysis.",
+  "timestamp": "2026-07-05T19:09:48.758121+00:00"
+}

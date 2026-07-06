@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper is relevant to CPS, IoT, and Fault Tolerance as it focuses on using AI for cyber security risk management in the Telecom Industry 4.0, a complex system with rapidly evolving technologies, increasing attack surface, and exposure to cyber security risks.",
+  "timestamp": "2026-07-05T19:28:10.723773+00:00"
+}

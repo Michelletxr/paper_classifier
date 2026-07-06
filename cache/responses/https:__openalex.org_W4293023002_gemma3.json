@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "IoT",
+    "CPS",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper presents a relevant threat analysis method for IoT systems, aligning with the ARES conference's focus on CPS and security challenges within IoT deployments.",
+  "timestamp": "2026-07-05T19:48:05.674352+00:00"
+}

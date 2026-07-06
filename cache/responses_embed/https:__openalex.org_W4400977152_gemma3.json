@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on cybersecurity education and student performance using ChatGPT is tangentially related to CPS due to the potential impact of AI on security systems, but it lacks direct engagement with cyberphysical system concepts or IoT technologies.",
+  "timestamp": "2026-07-05T19:24:13.040925+00:00"
+}

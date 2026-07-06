@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "This paper explores a blockchain-based authentication mechanism with potential relevance to CPS and IoT security, though the focus on smart contract vulnerabilities is somewhat tangential to core CPS research.",
+  "timestamp": "2026-07-05T19:52:50.034035+00:00"
+}

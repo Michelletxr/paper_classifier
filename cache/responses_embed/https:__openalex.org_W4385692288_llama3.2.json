@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on natural language processing and interpretation of legal language, which is not directly related to the ARES conference scope",
+  "timestamp": "2026-07-05T19:22:25.488336+00:00"
+}

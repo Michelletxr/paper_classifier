@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.58,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper focuses on the cybersecurity culture within the energy sector, which aligns with CPS and IoT domains due to their critical nature in power supply systems. Blockchain is also relevant as it could be used for secure communication or data storage in such sectors.",
+  "timestamp": "2026-07-05T19:13:55.969708+00:00"
+}

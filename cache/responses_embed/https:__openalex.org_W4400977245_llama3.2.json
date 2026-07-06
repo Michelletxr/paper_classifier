@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on immutability and non-repudiation in IoT-edge-cloud continuum aligns with the ARES conference scope, particularly Blockchain and Fault Tolerance, while its emphasis on lightweight approaches and decentralised networks makes it relevant to IoT.",
+  "timestamp": "2026-07-05T19:29:23.506393+00:00"
+}

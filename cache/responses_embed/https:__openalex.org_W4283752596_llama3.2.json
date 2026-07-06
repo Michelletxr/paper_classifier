@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on identifying vulnerabilities and threats in cyberspace using enumerations, which is relevant to CPS and IoT, but lacks direct connection to Blockchain and Distributed Systems.",
+  "timestamp": "2026-07-05T19:15:01.658669+00:00"
+}

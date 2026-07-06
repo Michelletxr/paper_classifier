@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper's focus on interactive cybersecurity teaching and learning aligns with the ARES conference scope, but its relevance to Fault Tolerance is limited.",
+  "timestamp": "2026-07-05T19:49:34.695877+00:00"
+}

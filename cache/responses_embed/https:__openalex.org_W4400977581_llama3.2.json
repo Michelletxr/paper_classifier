@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper proposes a blockchain-based multi-factor dynamic authentication mechanism, which is highly relevant to CPS and IoT, but its focus on security mechanisms makes it less directly related to Fault Tolerance and Distributed Systems.",
+  "timestamp": "2026-07-05T19:26:49.446946+00:00"
+}

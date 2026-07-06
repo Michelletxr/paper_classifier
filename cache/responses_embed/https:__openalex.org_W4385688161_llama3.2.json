@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper presents a comprehensive framework for enhancing resilience in critical infrastructures, leveraging dynamic adaptation and collaboration, which aligns with the CPS scope.",
+  "timestamp": "2026-07-05T19:19:55.527865+00:00"
+}

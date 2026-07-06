@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.57,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on offensive security tools and their automation, which has a moderate relevance to the CPS domain due to potential implications in cyberphysical systems' security, but also touches on aspects relevant to Fault Tolerance and possibly Distributed Systems.",
+  "timestamp": "2026-07-05T19:11:32.756870+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on IoT devices trust and identity management which aligns with the CPS domain, as it discusses security challenges in interconnected systems. It also touches upon Blockchain for privacy-respectful Trust and Identity Management Framework.",
+  "timestamp": "2026-07-05T19:50:18.945874+00:00"
+}

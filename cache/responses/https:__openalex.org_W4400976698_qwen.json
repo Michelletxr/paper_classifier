@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper discusses methods for safety, security, and resilience co-engineering in complex systems, which aligns with the CPS domain of Cyberphysical Systems.",
+  "timestamp": "2026-07-05T19:53:11.446500+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper’s focus on enhancing Cyber Situational Awareness through AI and NLP aligns well with the ARES conference's CPS scope, particularly concerning threat intelligence analysis relevant to IoT security and potentially fault tolerance in complex systems.",
+  "timestamp": "2026-07-05T19:54:25.993027+00:00"
+}

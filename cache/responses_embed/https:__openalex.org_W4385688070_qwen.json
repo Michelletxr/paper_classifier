@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.72,
+  "domains": [
+    "IoT",
+    "Distributed Systems"
+  ],
+  "reason": "The paper focuses on IoT and firmware security analysis, which aligns well with the IoT domain and Distributed Systems due to its distributed nature in analyzing diverse devices.",
+  "timestamp": "2026-07-05T19:21:50.110568+00:00"
+}

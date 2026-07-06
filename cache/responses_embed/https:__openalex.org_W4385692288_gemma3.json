@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Fault Tolerance"
+  ],
+  "reason": "While related to cybersecurity, the paper's focus on grammatical tagging of legal language within the context of cybersecurity lacks direct relevance to core CPS or fault tolerance research areas.",
+  "timestamp": "2026-07-05T19:22:21.656765+00:00"
+}

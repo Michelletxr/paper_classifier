@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper is relevant to the CPS and IoT domains, but lacks direct connection to Blockchain and Distributed Systems, making it less impactful on the broader ARES conference scope.",
+  "timestamp": "2026-07-05T19:46:20.152559+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "score": 4,
+  "confidence": 0.2,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper's focus on introducing high school girls to cybersecurity is not directly related to the ARES conference scope, which emphasizes Cyberphysical Systems, IoT, Blockchain, and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:21:32.663241+00:00"
+}

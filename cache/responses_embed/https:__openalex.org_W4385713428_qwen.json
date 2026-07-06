@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.7219,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on incident response for cyber-physical systems, which aligns well with the CPS domain and digital twins can be seen as a technology that supports tasks in CPS environments.",
+  "timestamp": "2026-07-05T19:18:06.753303+00:00"
+}

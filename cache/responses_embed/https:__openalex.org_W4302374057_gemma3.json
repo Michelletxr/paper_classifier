@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While related to cybersecurity education, the paper's focus on curriculum design using a skills framework (ECSF) doesn’t directly address core CPS or IoT research areas, though it could inform the development of specialized training within those domains.",
+  "timestamp": "2026-07-05T19:13:47.491071+00:00"
+}

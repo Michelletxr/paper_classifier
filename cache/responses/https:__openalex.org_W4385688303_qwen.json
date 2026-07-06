@@ -1,0 +1,11 @@
+{
+  "score": 3,
+  "confidence": 0.25,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on AI applications for cybersecurity, which is not directly aligned with the ARES conference scope of CPS, IoT, and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:48:50.640922+00:00"
+}

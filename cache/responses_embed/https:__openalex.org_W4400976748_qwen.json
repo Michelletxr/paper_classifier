@@ -1,0 +1,12 @@
+{
+  "score": 8,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on integrating threat intelligence and risk assessment for critical infrastructures, which aligns well with the CPS domain as it addresses cybersecurity in physical systems.",
+  "timestamp": "2026-07-05T19:24:37.692659+00:00"
+}

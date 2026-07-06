@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on integrating security tools and IoT devices, which is relevant to both CPS and IoT domains, while also addressing potential issues with manual processes and human errors in a cybersecurity context.",
+  "timestamp": "2026-07-05T19:45:25.615475+00:00"
+}

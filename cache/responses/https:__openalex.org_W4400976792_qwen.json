@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper discusses identity management systems, which are relevant to CPS as they can be applied in cyber-physical systems for secure and flexible user information handling. The integration with public key infrastructures is also pertinent to Blockchain technology. Additionally, the IoT context of managing device identities aligns well with this work.",
+  "timestamp": "2026-07-05T19:52:38.510631+00:00"
+}

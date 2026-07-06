@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on privacy-preserving computations and data marketplaces, which are relevant to CPS and Blockchain, but lacks direct connection to IoT and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:13:37.509917+00:00"
+}

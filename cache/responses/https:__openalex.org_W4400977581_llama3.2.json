@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper proposes a novel blockchain-based multi-factor dynamic authentication mechanism that addresses security challenges in CPS, making it relevant to the ARES conference scope.",
+  "timestamp": "2026-07-05T19:52:51.905618+00:00"
+}

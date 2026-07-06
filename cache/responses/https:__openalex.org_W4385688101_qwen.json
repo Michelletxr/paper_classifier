@@ -1,0 +1,12 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on protecting critical infrastructures from combined cyber-physical threats, which aligns well with the CPS domain and addresses issues relevant to Fault Tolerance and IoT in terms of interdependent systems.",
+  "timestamp": "2026-07-05T19:50:57.317683+00:00"
+}

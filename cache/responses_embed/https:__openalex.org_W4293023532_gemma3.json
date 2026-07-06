@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper aligns well with CPS and IoT due to its focus on securing EPES systems within a 5G environment, particularly concerning smart meters and power grid control, while also touching upon potential fault tolerance implications related to system disruptions.",
+  "timestamp": "2026-07-05T19:12:35.288414+00:00"
+}

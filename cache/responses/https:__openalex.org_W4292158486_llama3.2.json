@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on cyber-attacks and prevention methods is relevant to the CPS, IoT, Blockchain, and Fault Tolerance domains, but lacks direct connection to Distributed Systems.",
+  "timestamp": "2026-07-05T19:48:15.181882+00:00"
+}

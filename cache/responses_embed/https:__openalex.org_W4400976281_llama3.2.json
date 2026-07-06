@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cybersecurity awareness for SMEs, which is relevant to CPS and IoT, but lacks direct connection to Blockchain and Distributed Systems.",
+  "timestamp": "2026-07-05T19:28:45.315773+00:00"
+}

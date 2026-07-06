@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper addresses the critical issue of protecting Critical Infrastructures from combined cyber and physical threats, aligning with ARES conference scope.",
+  "timestamp": "2026-07-05T19:51:01.543122+00:00"
+}

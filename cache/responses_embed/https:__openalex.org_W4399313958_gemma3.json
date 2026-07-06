@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on network traffic analysis and anomaly detection aligns well with CPS principles, particularly concerning cybersecurity within IoT environments, although the connection to fault tolerance is weak.",
+  "timestamp": "2026-07-05T19:26:10.925631+00:00"
+}

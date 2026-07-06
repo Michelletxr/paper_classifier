@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cybersecurity risks in Industrial Control Systems (ICS), which is relevant to the CPS and IoT domains, but lacks direct connection to Blockchain and Distributed Systems.",
+  "timestamp": "2026-07-05T19:50:31.049645+00:00"
+}

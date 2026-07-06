@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on anomaly detection within a cyber range platform and log analysis aligns well with the CPS domain, particularly concerning security monitoring of interconnected systems, while also having relevance to IoT due to the potential for analyzing device logs.",
+  "timestamp": "2026-07-05T19:24:22.013963+00:00"
+}

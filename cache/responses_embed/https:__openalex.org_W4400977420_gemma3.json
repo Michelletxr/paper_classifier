@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper directly addresses a critical aspect of IoT – ensuring security and reliability through firmware certification, aligning strongly with the CPS domain's focus on secure cyber-physical systems and leveraging IoT device vulnerabilities.",
+  "timestamp": "2026-07-05T19:25:24.994316+00:00"
+}

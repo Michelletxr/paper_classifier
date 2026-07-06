@@ -1,0 +1,12 @@
+{
+  "score": 2,
+  "confidence": 0.35,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on OSINT analysis in cyber defense, which is not directly related to the domains of CPS, Blockchain, IoT, or Fault Tolerance.",
+  "timestamp": "2026-07-05T19:27:28.235426+00:00"
+}

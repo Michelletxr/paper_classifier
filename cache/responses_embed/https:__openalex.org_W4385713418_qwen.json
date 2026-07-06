@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cybersecurity education, which aligns well with CPS (cyber-physical systems) and Fault Tolerance domains due to the need for secure environments in educational settings. The abstract mentions no direct relation to Blockchain or IoT.",
+  "timestamp": "2026-07-05T19:19:32.824282+00:00"
+}

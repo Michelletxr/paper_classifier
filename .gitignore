@@ -12,15 +12,10 @@ venv/
 .env.*
 
 # Cache (generated at runtime)
-cache/
-*.pkl
-*.log
+# cache/
 
 # Outputs (generated at runtime)
-outputs/
-!outputs/*.csv
-!outputs/*.xlsx
-!outputs/*.json
+# outputs/
 
 # IDE
 .idea/

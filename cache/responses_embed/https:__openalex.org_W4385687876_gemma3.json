@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "This paper directly addresses the intersection of CPS (CAVs as cyberphysical systems) and IoT security concerns, offering a valuable approach to privacy risk assessment within this domain.",
+  "timestamp": "2026-07-05T19:20:05.127632+00:00"
+}

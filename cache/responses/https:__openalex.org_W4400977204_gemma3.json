@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper addresses a relevant challenge in IoT security – scalability of network fingerprinting – aligning with the ARES conference's focus on CPS and IoT, while also hinting at potential fault tolerance implications for device recognition.",
+  "timestamp": "2026-07-05T19:51:49.453404+00:00"
+}

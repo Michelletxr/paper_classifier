@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper is relevant to the ARES conference scope as it proposes a blockchain-based solution for improving security and scalability in smart grids, which falls under Cyberphysical Systems (CPS) and IoT domains.",
+  "timestamp": "2026-07-05T19:48:31.975199+00:00"
+}

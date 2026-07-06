@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper discusses key messages exchange within an IoT-Edge-Cloud continuum, utilizing IOTA for immutability and non-repudiation, which aligns with the ARES conference scope on Cyberphysical Systems (CPS), Blockchain, and IoT.",
+  "timestamp": "2026-07-05T19:53:58.662410+00:00"
+}

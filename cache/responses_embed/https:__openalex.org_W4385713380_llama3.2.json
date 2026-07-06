@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper is highly relevant to the ARES conference scope, focusing on IoT networks and proposing a Machine Learning-driven methodology for multiclass classification of cyber-attacks, which aligns with the CPS domain.",
+  "timestamp": "2026-07-05T19:18:31.463533+00:00"
+}

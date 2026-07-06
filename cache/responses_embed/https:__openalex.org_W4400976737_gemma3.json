@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on Cyber Situation Awareness (CSA) within a dynamic cyber environment aligns well with the CPS and IoT domains, particularly concerning threat identification and mitigation strategies.",
+  "timestamp": "2026-07-05T19:24:03.952245+00:00"
+}

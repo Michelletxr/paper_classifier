@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper addresses the critical need for security analysis tools within IoT devices, aligning with CPS concerns regarding device diversity and potential vulnerabilities, though the connection to benchmark generation is somewhat tangential.",
+  "timestamp": "2026-07-05T19:21:55.179092+00:00"
+}

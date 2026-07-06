@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on cybercrime investigation aligns with the broader concept of threat intelligence and incident response within CPS and IoT environments, although it lacks direct technical contributions to those domains.",
+  "timestamp": "2026-07-05T19:18:55.643254+00:00"
+}

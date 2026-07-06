@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on smart grid networks and smart meters aligns well with the CPS and IoT domains, particularly concerning critical infrastructure security testing, although the blockchain aspect is not directly addressed.",
+  "timestamp": "2026-07-05T19:11:51.842606+00:00"
+}

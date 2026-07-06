@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Distributed Systems"
+  ],
+  "reason": "The paper's focus on access control in an ITS aligns well with CPS and IoT applications, particularly concerning distributed systems for real-time constraints and situation awareness, though the blockchain component is not directly addressed.",
+  "timestamp": "2026-07-05T19:13:18.301051+00:00"
+}

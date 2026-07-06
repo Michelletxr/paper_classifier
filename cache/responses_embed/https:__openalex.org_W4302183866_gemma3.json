@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "While the paper touches on security automation relevant to cyber operations, its focus on OCO tools and mapping to the MITRE ATT&CK framework is primarily a cybersecurity application rather than directly addressing core CPS or fault tolerance principles within a physical system.",
+  "timestamp": "2026-07-05T19:11:38.251575+00:00"
+}

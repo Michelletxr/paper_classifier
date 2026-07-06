@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on simulating cyber-physical attacks and enhancing security controls aligns well with the ARES conference scope, particularly within CPS and IoT contexts, although the blockchain component is absent.",
+  "timestamp": "2026-07-05T19:52:58.122544+00:00"
+}

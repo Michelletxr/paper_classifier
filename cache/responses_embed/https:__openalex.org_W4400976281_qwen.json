@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.54,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on a cybersecurity ecosystem for SMEs, which aligns well with the CPS domain as it could be applied in industrial settings to improve security awareness and resilience.",
+  "timestamp": "2026-07-05T19:28:39.608176+00:00"
+}

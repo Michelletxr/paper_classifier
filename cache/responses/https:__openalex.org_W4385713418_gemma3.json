@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on cybersecurity education and training scenarios aligns with ARES’s interest in CPS and IoT security aspects, though it lacks specific technical details relevant to the conference scope.",
+  "timestamp": "2026-07-05T19:49:33.042254+00:00"
+}

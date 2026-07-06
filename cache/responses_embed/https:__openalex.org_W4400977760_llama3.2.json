@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper focuses on a middleware solution (ATIO) for enhancing unified threat management processes in IoT environments, which aligns with the CPS and IoT domains, but lacks direct relevance to Blockchain and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:30:18.102515+00:00"
+}

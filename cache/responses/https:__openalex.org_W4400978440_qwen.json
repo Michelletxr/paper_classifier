@@ -1,0 +1,12 @@
+{
+  "score": 5,
+  "confidence": 0.6,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper discusses fault trees, which are relevant to safety analysis in Cyberphysical Systems (CPS), and also touches on the evaluation of machine learning models for predicting worst-case performance, which could be applicable to Fault Tolerance and possibly Blockchain systems.",
+  "timestamp": "2026-07-05T19:53:03.586322+00:00"
+}

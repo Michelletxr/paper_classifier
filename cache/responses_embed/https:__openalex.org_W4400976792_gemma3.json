@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Distributed Systems"
+  ],
+  "reason": "The paper's focus on decentralized identity networks aligns well with the conference scope, particularly Distributed Systems and potentially IoT due to its emphasis on user control and flexibility, although blockchain aspects are not explicitly detailed.",
+  "timestamp": "2026-07-05T19:26:38.107220+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "Fault Tolerance",
+    "CPS"
+  ],
+  "reason": "The paper's focus on fault trees and confidence-aware methods aligns with the ARES conference scope, particularly in Fault Tolerance and Cyberphysical Systems.",
+  "timestamp": "2026-07-05T19:27:24.383223+00:00"
+}

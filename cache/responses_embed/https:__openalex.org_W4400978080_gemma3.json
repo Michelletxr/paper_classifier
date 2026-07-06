@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on anomaly detection within cybersecurity and the use of graph embeddings aligns with CPS and IoT principles, though the specific application of hyperbolic space is less directly relevant to traditional fault tolerance or distributed systems research.",
+  "timestamp": "2026-07-05T19:27:14.059424+00:00"
+}

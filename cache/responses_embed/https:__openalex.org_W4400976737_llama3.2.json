@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on Cyber Situation Awareness, a framework for managing virtual environments, which is highly relevant to CPS and IoT, and also discusses techniques for handling complex data and dynamic environments, which aligns with Fault Tolerance.",
+  "timestamp": "2026-07-05T19:24:06.320707+00:00"
+}

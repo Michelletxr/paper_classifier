@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper presents a fault-tolerant SDN solution, which is highly relevant to the ARES conference scope of Cyberphysical Systems and Fault Tolerance, but its focus on cybersecurity applications limits its relevance to Blockchain and IoT.",
+  "timestamp": "2026-07-05T19:12:23.212690+00:00"
+}

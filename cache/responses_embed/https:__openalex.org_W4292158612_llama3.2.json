@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper focuses on assessing cyber-security culture readiness within an academic institution, which is not directly related to the ARES conference scope of Cyberphysical Systems and IoT, but shares some relevance with CPS as it involves understanding human factors in system design.",
+  "timestamp": "2026-07-05T19:14:20.093175+00:00"
+}

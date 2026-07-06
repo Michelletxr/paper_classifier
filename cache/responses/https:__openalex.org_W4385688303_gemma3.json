@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper discusses AI-powered cybersecurity services relevant to critical entities' systems, aligning with CPS and IoT concerns, but lacks specific details on fault tolerance or blockchain integration.",
+  "timestamp": "2026-07-05T19:48:53.380251+00:00"
+}

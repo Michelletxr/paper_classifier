@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper addresses a relevant security challenge within Intelligent Transportation Systems (ITS), aligning with the CPS and IoT domains through its focus on access control and situation awareness.",
+  "timestamp": "2026-07-05T19:47:25.049753+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper focuses on anomaly detection in smart water distribution systems, which falls under the domain of Cyber-Physical Systems (CPS) and Internet of Things (IoT).",
+  "timestamp": "2026-07-05T19:14:25.051557+00:00"
+}

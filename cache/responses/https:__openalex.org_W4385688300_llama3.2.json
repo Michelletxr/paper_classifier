@@ -1,0 +1,12 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper proposes a graph-based framework for detecting attacks in IoT networks, which is relevant to the CPS and IoT domains, but lacks direct connection to Blockchain and Distributed Systems.",
+  "timestamp": "2026-07-05T19:49:59.199987+00:00"
+}

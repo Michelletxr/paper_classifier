@@ -1,0 +1,13 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper presents a comprehensive cybersecurity management platform with situational awareness, incident response, and preparedness capabilities, aligning well with the CPS scope",
+  "timestamp": "2026-07-05T19:25:35.710127+00:00"
+}

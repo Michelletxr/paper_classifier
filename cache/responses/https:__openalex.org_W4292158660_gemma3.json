@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper addresses a relevant area (smart grid security) and explores the use of blockchain and IoT technologies, aligning with ARES's focus on CPS and related domains.",
+  "timestamp": "2026-07-05T19:48:30.137083+00:00"
+}

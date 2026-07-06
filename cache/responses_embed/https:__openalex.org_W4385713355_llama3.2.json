@@ -1,0 +1,13 @@
+{
+  "score": 6,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper focuses on the curation mechanism for a cybersecurity framework, which is not directly related to CPS, IoT, or Blockchain, but rather on the management of skills requirements and workforce development in the cybersecurity field.",
+  "timestamp": "2026-07-05T19:23:03.501467+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper addresses a relevant concern in IoV systems and proposes an innovative solution using blockchain technology, aligning with the ARES conference scope.",
+  "timestamp": "2026-07-05T19:53:46.825628+00:00"
+}

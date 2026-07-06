@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on deploying quantum-resistant cybersecurity in intelligent infrastructures, which is relevant to the CPS and IoT domains, but lacks direct connection to Blockchain and Distributed Systems.",
+  "timestamp": "2026-07-05T19:49:10.828891+00:00"
+}

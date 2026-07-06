@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on detecting IoT attacks using machine learning techniques, which is relevant to CPS and IoT domains, but lacks direct connection to Fault Tolerance or Blockchain.",
+  "timestamp": "2026-07-05T19:23:38.487259+00:00"
+}

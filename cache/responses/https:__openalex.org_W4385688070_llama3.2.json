@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper addresses a relevant issue in IoT security analysis and provides a tool to evaluate firmware security, but its scope is limited to Linux-based systems and does not consider other architectures or protocols commonly used in CPS and Blockchain.",
+  "timestamp": "2026-07-05T19:50:38.623214+00:00"
+}

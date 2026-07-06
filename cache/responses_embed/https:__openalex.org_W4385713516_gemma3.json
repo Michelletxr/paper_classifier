@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on adversarial AI and deception within cyber defense aligns well with the CPS domain, particularly concerning resilience and situational awareness in complex systems, although its connection to IoT and fault tolerance is less direct.",
+  "timestamp": "2026-07-05T19:20:32.804780+00:00"
+}

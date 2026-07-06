@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While the paper addresses cybersecurity training, it’s primarily focused on education and skills frameworks within the European context, lacking direct connections to cyberphysical systems, IoT security challenges, or fault tolerance mechanisms.",
+  "timestamp": "2026-07-05T19:22:42.650572+00:00"
+}

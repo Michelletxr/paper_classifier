@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.75,
+  "domains": [
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper focuses on an IoT context and proposes a quantum-safe watchdog timer protocol, which aligns well with the IoT domain and has implications for blockchain security as it addresses potential vulnerabilities in communication channels.",
+  "timestamp": "2026-07-05T19:20:42.595432+00:00"
+}

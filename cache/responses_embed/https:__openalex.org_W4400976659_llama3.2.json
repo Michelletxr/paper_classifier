@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper assesses the performance of Ethereum and Hyperledger Fabric under DDoS attacks, which is relevant to Cyberphysical Systems (CPS), Blockchain, and IoT, but lacks direct connection to Fault Tolerance or Distributed Systems.",
+  "timestamp": "2026-07-05T19:24:34.092848+00:00"
+}

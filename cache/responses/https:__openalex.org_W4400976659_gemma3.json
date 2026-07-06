@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper directly addresses cyber-physical systems by evaluating blockchain performance under DDoS attacks, a relevant concern for system resilience and security.",
+  "timestamp": "2026-07-05T19:51:24.486972+00:00"
+}

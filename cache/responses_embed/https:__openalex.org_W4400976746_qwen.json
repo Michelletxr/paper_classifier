@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on Cyber Situational Awareness (CSA) in cyber defence, which aligns well with the CPS domain due to its relevance to military operations and cybersecurity, as well as IoT for interconnected systems. The mention of cross-domain effects also ties into CPS. While CSA is not directly related to Blockchain or Fault Tolerance, it touches on aspects that could be indirectly relevant through secure information access and sharing.",
+  "timestamp": "2026-07-05T19:26:25.745111+00:00"
+}

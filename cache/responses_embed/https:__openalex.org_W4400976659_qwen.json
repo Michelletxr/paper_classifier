@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.75,
+  "domains": [
+    "Blockchain",
+    "CPS"
+  ],
+  "reason": "The paper focuses on evaluating Ethereum and Hyperledger Fabric under DDoS attacks, which are relevant to both Blockchain and Cyber-Physical Systems (CPS) domains due to their potential impact in smart cities and cyber-physical systems.",
+  "timestamp": "2026-07-05T19:24:28.116210+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper directly addresses a critical issue in IoT security – malware analysis at scale – aligning well with the ARES conference's focus on CPS and IoT vulnerabilities.",
+  "timestamp": "2026-07-05T19:45:46.642310+00:00"
+}

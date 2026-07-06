@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "IoT",
+    "Distributed Systems"
+  ],
+  "reason": "The paper focuses on scalability issues in IoT device recognition using machine learning, which aligns well with the IoT domain and Distributed Systems due to its distributed nature.",
+  "timestamp": "2026-07-05T19:25:13.655296+00:00"
+}

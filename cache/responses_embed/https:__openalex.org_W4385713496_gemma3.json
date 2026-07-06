@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on cybersecurity and PQC within intelligent infrastructures aligns well with the ARES conference scope, particularly CPS and IoT, though its connection to blockchain or fault tolerance is less direct.",
+  "timestamp": "2026-07-05T19:18:41.519174+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper is highly relevant to the ARES conference scope, specifically focusing on Cyberphysical Systems (CPS) and Blockchain, with a secondary relevance to IoT.",
+  "timestamp": "2026-07-05T19:54:11.587490+00:00"
+}

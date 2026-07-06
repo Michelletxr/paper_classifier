@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While related to cybersecurity and potentially useful for training providers, the paper's focus on analyzing job adverts using machine learning doesn’t directly align with the core themes of CPS, IoT, or Fault Tolerance within the ARES conference scope.",
+  "timestamp": "2026-07-05T19:15:25.986805+00:00"
+}

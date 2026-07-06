@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.75,
+  "domains": [
+    "IoT",
+    "Distributed Systems"
+  ],
+  "reason": "The paper focuses on adapting Security Orchestration, Automation, and Response (SOAR) for Internet of Things (IoT), which has a high relevance to the IoT domain as well as Distributed Systems due to its focus on managing multiple devices and complex networks.",
+  "timestamp": "2026-07-05T19:10:21.988609+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 4,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on AI in cyber security risk management, which is most relevant to Cyberphysical Systems (CPS) due to the complex and evolving nature of telecommunications infrastructure.",
+  "timestamp": "2026-07-05T19:28:05.415158+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on resilience in critical infrastructures aligns well with the ARES conference scope, particularly regarding CPS and fault tolerance aspects of maintaining operational continuity under disruptive conditions.",
+  "timestamp": "2026-07-05T19:19:52.070247+00:00"
+}

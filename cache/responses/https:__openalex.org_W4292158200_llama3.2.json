@@ -1,0 +1,12 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "Relevant to ARES conference scope, specifically CPS and IoT domains",
+  "timestamp": "2026-07-05T19:46:05.590019+00:00"
+}

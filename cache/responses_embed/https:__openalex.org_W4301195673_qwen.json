@@ -1,0 +1,13 @@
+{
+  "score": 8,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper focuses on SDN fault tolerance and resilience, which is strongly related to the Fault Tolerance domain as well as Distributed Systems, making it highly relevant for an ARES conference focused on Cyberphysical Systems (CPS), IoT, Blockchain, and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:12:15.408714+00:00"
+}

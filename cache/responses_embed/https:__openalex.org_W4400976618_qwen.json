@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cybersecurity education and workforce gap in Central and Eastern Europe, which aligns well with the CPS domain due to its relevance to cyberphysical systems and digitalization of society. The abstract mentions cybersecurity challenges and workforce gaps, which could be seen as related to Fault Tolerance and Distributed Systems in terms of system resilience and security.",
+  "timestamp": "2026-07-05T19:29:45.065606+00:00"
+}

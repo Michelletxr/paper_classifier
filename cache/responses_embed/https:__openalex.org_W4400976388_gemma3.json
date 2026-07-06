@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While the paper touches on cyber defence and threat intelligence – relevant to CPS due to its focus on attack techniques – the core application of NLP for OSINT analysis is primarily focused on information gathering and prioritization rather than directly addressing fault tolerance or distributed systems aspects within a cyberphysical system.",
+  "timestamp": "2026-07-05T19:27:31.735698+00:00"
+}

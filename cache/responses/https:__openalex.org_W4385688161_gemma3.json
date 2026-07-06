@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper addresses critical infrastructure resilience, a relevant topic for CPS and IoT, but lacks specific technical details on fault tolerance or blockchain integration, limiting its direct relevance to the ARES conference scope.",
+  "timestamp": "2026-07-05T19:49:41.082408+00:00"
+}

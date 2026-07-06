@@ -1,0 +1,13 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "This paper explores a relevant cryptographic technique (secret sharing) within the context of distributed key generation, aligning with the ARES conference's focus on CPS and distributed systems.",
+  "timestamp": "2026-07-05T19:46:58.602705+00:00"
+}

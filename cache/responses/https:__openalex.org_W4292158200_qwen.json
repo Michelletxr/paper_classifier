@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on improving consensus algorithms for IoT devices, which is relevant to both CPS and Blockchain domains, while also addressing security concerns in the IoT ecosystem.",
+  "timestamp": "2026-07-05T19:45:55.732099+00:00"
+}

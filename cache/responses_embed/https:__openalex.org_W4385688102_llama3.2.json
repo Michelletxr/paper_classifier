@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on raising awareness and sharing knowledge about IoT security, which is relevant to the ARES conference scope, but lacks depth in other areas such as blockchain or fault tolerance.",
+  "timestamp": "2026-07-05T19:22:11.970086+00:00"
+}

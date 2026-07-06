@@ -1,0 +1,12 @@
+{
+  "score": 2,
+  "confidence": 0.35,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cybersecurity, particularly in the context of cybercrimes and investigative processes rather than CPS, Blockchain, IoT, or Fault Tolerance.",
+  "timestamp": "2026-07-05T19:18:50.137361+00:00"
+}

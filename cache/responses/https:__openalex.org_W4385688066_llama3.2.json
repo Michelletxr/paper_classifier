@@ -1,0 +1,12 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper addresses relevant challenges in IoT devices trust and identity management, aligning with the ARES conference scope.",
+  "timestamp": "2026-07-05T19:50:23.753680+00:00"
+}

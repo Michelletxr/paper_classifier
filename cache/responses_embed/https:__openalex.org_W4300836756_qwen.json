@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "Blockchain",
+    "Distributed Systems"
+  ],
+  "reason": "The paper discusses secret sharing methods, which are relevant to both Distributed Systems and Blockchain domains due to their focus on secure key generation in distributed environments.",
+  "timestamp": "2026-07-05T19:12:44.179871+00:00"
+}

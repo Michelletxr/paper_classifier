@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.75,
+  "domains": [
+    "Blockchain",
+    "CPS"
+  ],
+  "reason": "The paper focuses on a Blockchain-based multi-factor honeytoken dynamic authentication mechanism, which aligns well with the Blockchain and CPS domains due to its application in secure systems and industrial control.",
+  "timestamp": "2026-07-05T19:26:44.077410+00:00"
+}

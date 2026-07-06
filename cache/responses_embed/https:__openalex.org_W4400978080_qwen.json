@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on anomaly detection in cybersecurity, which aligns well with the CPS domain as it involves complex systems and networks. The abstract mentions hyperbolic graph embedding for capturing hierarchical relationships, which could be relevant to IoT systems where data often has a hierarchical structure.",
+  "timestamp": "2026-07-05T19:27:11.125077+00:00"
+}

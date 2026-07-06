@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on identifying and evaluating cyber-physical threats in interdependent critical infrastructures aligns well with the ARES conference scope, particularly in CPS, IoT, and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:23:11.666933+00:00"
+}

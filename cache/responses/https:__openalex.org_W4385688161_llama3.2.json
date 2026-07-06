@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper presents a comprehensive framework for enhancing resilience in critical infrastructures, which aligns with the ARES conference scope.",
+  "timestamp": "2026-07-05T19:49:42.718287+00:00"
+}

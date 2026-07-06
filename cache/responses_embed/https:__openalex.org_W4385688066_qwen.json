@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper focuses on IoT devices trust and identity management within the context of CPS, which aligns well with the high similarity score to IoT.",
+  "timestamp": "2026-07-05T19:21:10.005402+00:00"
+}

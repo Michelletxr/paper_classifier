@@ -1,0 +1,13 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper's focus on cloud technology and cybersecurity is relevant to CPS, but the lack of direct connection to IoT, Blockchain, or Fault Tolerance makes it less impactful within those domains.",
+  "timestamp": "2026-07-05T19:17:05.307347+00:00"
+}

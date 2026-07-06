@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on cyber insurance and contract comparison aligns somewhat with the broader concept of protecting digital assets within CPS and IoT environments, though it lacks a deep dive into the core technical aspects relevant to ARES.",
+  "timestamp": "2026-07-05T19:15:40.063836+00:00"
+}

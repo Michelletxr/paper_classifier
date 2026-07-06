@@ -1,0 +1,12 @@
+{
+  "score": 5,
+  "confidence": 0.6,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on the design and evaluation of cybersecurity awareness posters, which does not directly align with the domains of CPS, Blockchain, IoT, or Fault Tolerance as per the provided similarity scores. However, it has a moderate relevance to Distributed Systems due to its focus on systematic approaches in poster design and quality assessment.",
+  "timestamp": "2026-07-05T19:11:05.358851+00:00"
+}

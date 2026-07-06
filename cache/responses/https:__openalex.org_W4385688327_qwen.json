@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on an IoT context and proposes a quantum-safe watchdog timer protocol, which is relevant to the security concerns in CPS systems and fault tolerance mechanisms.",
+  "timestamp": "2026-07-05T19:50:02.377943+00:00"
+}

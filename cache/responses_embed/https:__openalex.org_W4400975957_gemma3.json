@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "This paper's focus on threat attribution using DNS patterns aligns reasonably well with the CPS and IoT domains due to its relevance to cybersecurity and network analysis, although it doesn’t directly address core CPS or IoT system design.",
+  "timestamp": "2026-07-05T19:25:07.852459+00:00"
+}

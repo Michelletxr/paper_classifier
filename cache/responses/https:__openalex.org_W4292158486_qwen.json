@@ -1,0 +1,12 @@
+{
+  "score": 4,
+  "confidence": 0.6,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cyber threats and fraud activities related to virtual currencies, which are relevant to the Cyberphysical Systems (CPS) domain due to potential impacts in IoT systems and cybersecurity.",
+  "timestamp": "2026-07-05T19:48:10.679341+00:00"
+}

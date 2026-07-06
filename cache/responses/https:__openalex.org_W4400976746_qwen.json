@@ -1,0 +1,11 @@
+{
+  "score": 4,
+  "confidence": 0.6,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper focuses on cyber situational awareness, which is pertinent to CPS and IoT domains due to the interconnected nature of systems in these areas. While it does not directly address blockchain technology or fault tolerance, its relevance to cybersecurity and decision-making processes aligns with the ARES conference scope.",
+  "timestamp": "2026-07-05T19:52:29.766236+00:00"
+}

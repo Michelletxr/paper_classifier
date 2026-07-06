@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "This paper aligns well with ARES's scope by exploring the application of digital twins – a key CPS technology – to enhance incident response in cyber-physical systems, particularly considering the interconnectedness of cyber and physical domains.",
+  "timestamp": "2026-07-05T19:49:01.452955+00:00"
+}

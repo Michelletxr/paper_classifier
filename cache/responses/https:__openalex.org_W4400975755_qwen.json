@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper discusses e-cash minting, which can be related to blockchain technology and trust minimization in a secure hardware environment, potentially impacting CPS systems through IoT devices.",
+  "timestamp": "2026-07-05T19:53:27.616625+00:00"
+}

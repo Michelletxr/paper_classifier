@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper demonstrates alignment with EU cybersecurity policy and regulations, primarily relevant to CPS due to its focus on incident sharing within critical sectors like energy, but lacks specific technical details about the I2SP platform itself.",
+  "timestamp": "2026-07-05T19:48:22.180820+00:00"
+}

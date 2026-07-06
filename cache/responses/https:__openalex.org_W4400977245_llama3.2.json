@@ -1,0 +1,12 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper is relevant to ARES conference scope, focusing on trust and immutability in IoT-Edge-Cloud Continuum, aligning with CPS and IoT domains.",
+  "timestamp": "2026-07-05T19:54:03.963961+00:00"
+}

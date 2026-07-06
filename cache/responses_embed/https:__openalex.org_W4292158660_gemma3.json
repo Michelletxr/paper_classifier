@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper directly addresses security and scalability in a smart grid context, aligning with the CPS and IoT domains through its use of blockchain for enhanced grid management, making it highly relevant to the ARES conference scope.",
+  "timestamp": "2026-07-05T19:16:47.852022+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on a multi-modal security solution based on blockchain within the context of critical infrastructure, which aligns with the CPS and IoT domains.",
+  "timestamp": "2026-07-05T19:54:07.052496+00:00"
+}

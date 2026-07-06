@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.58,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper discusses alignment with European cybersecurity policy, regulatory advancements and does not focus on CPS, Blockchain, IoT or Fault Tolerance as the main domain of interest.",
+  "timestamp": "2026-07-05T19:16:28.195602+00:00"
+}

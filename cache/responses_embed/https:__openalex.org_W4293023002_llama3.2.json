@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on a threat analysis method for IoT systems, which is relevant to the CPS and IoT domains, but lacks direct connection to Blockchain and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:15:16.494759+00:00"
+}

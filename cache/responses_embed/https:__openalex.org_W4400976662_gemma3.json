@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While the paper touches on anomaly detection which relates to cybersecurity aspects of IoT and potentially CPS, the focus on VAEs and prior distributions is not directly aligned with the core themes of ARES, particularly concerning fault tolerance or blockchain applications.",
+  "timestamp": "2026-07-05T19:29:57.034839+00:00"
+}

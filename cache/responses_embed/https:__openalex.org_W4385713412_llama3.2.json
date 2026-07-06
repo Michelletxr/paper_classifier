@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper presents a novel approach to optimizing cybersecurity curriculum, leveraging machine learning and text-mining techniques, which is relevant to the CPS domain due to its focus on dynamic optimization of complex systems.",
+  "timestamp": "2026-07-05T19:23:29.536733+00:00"
+}

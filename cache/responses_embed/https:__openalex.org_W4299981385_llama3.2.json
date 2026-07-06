@@ -1,0 +1,13 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper's focus on analyzing job adverts for cybersecurity skills needs is not directly related to the ARES conference scope, but its application of machine learning and data analysis could be relevant to CPS and IoT domains",
+  "timestamp": "2026-07-05T19:15:29.867025+00:00"
+}

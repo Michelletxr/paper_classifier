@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper focuses on feature selection techniques for machine learning-based detection of IoT attacks, which aligns well with the IoT and CPS domains due to the critical nature of cybersecurity in IoT applications.",
+  "timestamp": "2026-07-05T19:23:33.241633+00:00"
+}

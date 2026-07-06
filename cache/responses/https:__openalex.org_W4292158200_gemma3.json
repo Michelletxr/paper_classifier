@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "This paper directly addresses a relevant intersection of CPS, Blockchain, and IoT by proposing a consensus algorithm designed to improve security and scalability within the IoT context.",
+  "timestamp": "2026-07-05T19:46:01.921900+00:00"
+}

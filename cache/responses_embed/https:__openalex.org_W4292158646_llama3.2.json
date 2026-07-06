@@ -1,0 +1,12 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper proposes a blockchain-based solution for malware recovery in IoT, which aligns with the ARES conference scope on CPS and Blockchain, but lacks direct relevance to Fault Tolerance and Distributed Systems.",
+  "timestamp": "2026-07-05T19:17:33.422905+00:00"
+}

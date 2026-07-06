@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.613,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on the security and privacy risks in connected and autonomous vehicles, which are directly relevant to Cyberphysical Systems (CPS) due to their integration with physical systems.",
+  "timestamp": "2026-07-05T19:20:00.214143+00:00"
+}

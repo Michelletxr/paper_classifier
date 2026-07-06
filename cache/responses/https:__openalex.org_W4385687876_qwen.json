@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on the security and privacy risks in connected and autonomous vehicles, which are a key aspect of Cyberphysical Systems (CPS). It also touches upon IoT aspects through vehicular networks and addresses privacy issues relevant to Blockchain technology.",
+  "timestamp": "2026-07-05T19:49:46.299824+00:00"
+}

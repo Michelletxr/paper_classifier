@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on addressing faults and bypass attacks in embedded systems, which aligns well with the Fault Tolerance domain as it deals with robustness against failures and security vulnerabilities.",
+  "timestamp": "2026-07-05T19:30:03.111009+00:00"
+}

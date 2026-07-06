@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper focuses on IoT malware analysis, which aligns well with both IoT and CPS domains due to their interdependence in the cyberphysical systems context.",
+  "timestamp": "2026-07-05T19:10:51.838604+00:00"
+}

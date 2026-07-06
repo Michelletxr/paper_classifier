@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on simulating cyber-physical attacks and incidents for enhanced security assessment aligns with the ARES conference scope, particularly in Cyberphysical Systems (CPS), IoT, and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:26:58.210320+00:00"
+}

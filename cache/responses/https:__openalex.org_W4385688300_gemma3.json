@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "This paper addresses a relevant and timely problem in IoT security using graph learning, aligning well with the ARES conference's focus on CPS and IoT-related security challenges.",
+  "timestamp": "2026-07-05T19:49:57.341224+00:00"
+}

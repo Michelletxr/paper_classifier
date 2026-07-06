@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper directly addresses security concerns within the IoT domain using quantum-safe techniques, aligning well with the ARES conference scope and leveraging blockchain concepts for digital signatures.",
+  "timestamp": "2026-07-05T19:20:46.892611+00:00"
+}

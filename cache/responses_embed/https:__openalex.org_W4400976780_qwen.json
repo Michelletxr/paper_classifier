@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.6391,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cyber-resilience and data privacy in V2X technologies, which are strongly related to CPS (Cyber-Physical Systems) as they involve the integration of computing with physical processes. The abstract also mentions EVs and smart grids, which could be seen as IoT elements.",
+  "timestamp": "2026-07-05T19:25:39.865008+00:00"
+}

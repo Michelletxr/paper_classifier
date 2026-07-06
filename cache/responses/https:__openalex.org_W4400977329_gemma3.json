@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper aligns with ARES's scope by exploring blockchain-based security mechanisms within a critical time system (CPS) context, although the specific details of IoT integration are not explicitly stated.",
+  "timestamp": "2026-07-05T19:54:09.805344+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on AI-driven cybersecurity incident response and recovery aligns well with CPS principles of integrating computation and physical processes, particularly concerning IoT systems vulnerable to advanced attacks.",
+  "timestamp": "2026-07-05T19:17:57.852208+00:00"
+}

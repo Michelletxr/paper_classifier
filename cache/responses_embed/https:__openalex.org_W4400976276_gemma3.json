@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "This paper directly addresses the intersection of IoT and Blockchain within a CPS context – specifically IoV security – aligning well with the ARES conference scope and demonstrating a relevant contribution.",
+  "timestamp": "2026-07-05T19:28:33.631425+00:00"
+}

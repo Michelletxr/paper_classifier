@@ -1,0 +1,12 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper addresses a critical security challenge in Intelligent Transportation Systems (ITS) and proposes a novel distributed architecture for access control enforcement, leveraging techniques from distributed systems to minimize overhead while satisfying stringent requirements.",
+  "timestamp": "2026-07-05T19:13:22.216982+00:00"
+}

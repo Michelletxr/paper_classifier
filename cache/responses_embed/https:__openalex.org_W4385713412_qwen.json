@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.5741,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on curriculum analysis for cybersecurity, which has a moderate relevance to the CPS domain due to its emphasis on education and training in cyber systems.",
+  "timestamp": "2026-07-05T19:23:23.939968+00:00"
+}

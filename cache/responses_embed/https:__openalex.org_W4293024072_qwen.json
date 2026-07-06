@@ -1,0 +1,11 @@
+{
+  "score": 5,
+  "confidence": 0.6,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on cybersecurity-related ethical issues of cloud technology, which is most relevant to the Cyberphysical Systems (CPS) domain given its emphasis on infrastructure and potential threats.",
+  "timestamp": "2026-07-05T19:16:56.002430+00:00"
+}

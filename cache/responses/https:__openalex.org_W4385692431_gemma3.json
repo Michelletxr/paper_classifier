@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper addresses relevant security challenges within a converging CPS environment (IoT and Metaverse), utilizing blockchain for data integrity – aligning well with ARES' scope.",
+  "timestamp": "2026-07-05T19:49:25.260268+00:00"
+}

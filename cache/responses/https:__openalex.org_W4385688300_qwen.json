@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on IoT network attack detection, which aligns with the ARES conference scope of Cyberphysical Systems (CPS) and Fault Tolerance, while also touching upon Blockchain through potential security implications. The proposed graph-based framework is relevant to distributed systems as well.",
+  "timestamp": "2026-07-05T19:49:54.611330+00:00"
+}

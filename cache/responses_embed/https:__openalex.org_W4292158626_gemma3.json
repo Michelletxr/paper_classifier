@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on recommender systems for cybersecurity incident handling aligns reasonably well with CPS and IoT concepts related to data-driven decision support, though it lacks direct engagement with blockchain or fault tolerance.",
+  "timestamp": "2026-07-05T19:10:43.029655+00:00"
+}

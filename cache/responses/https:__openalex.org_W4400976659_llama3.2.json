@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper assesses the performance of Ethereum and Hyperledger Fabric under DDoS attacks, which is relevant to Cyberphysical Systems, but its focus on blockchain technology limits its scope to only these domains.",
+  "timestamp": "2026-07-05T19:51:26.661937+00:00"
+}

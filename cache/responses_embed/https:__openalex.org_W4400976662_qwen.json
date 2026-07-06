@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on the Variational Auto-Encoder (VAE) for anomaly detection, which is relevant to cybersecurity and could be applied in CPS systems, but does not directly align with the other domains like Blockchain or IoT.",
+  "timestamp": "2026-07-05T19:29:54.012128+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on collecting and analyzing IoT malware artifacts in near real-time aligns with the ARES conference scope, particularly in Cyberphysical Systems (CPS) and Fault Tolerance, while its emphasis on IoT is a strong match for the conference's IoT domain.",
+  "timestamp": "2026-07-05T19:11:00.185336+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "This paper directly addresses cybersecurity in Industry 4.0 environments, which aligns with the ARES conference's focus on CPS and IoT, while also highlighting relevant security considerations for operational technology.",
+  "timestamp": "2026-07-05T19:54:17.726163+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cybersecurity education and career paths, which aligns with the broader CPS domain by addressing security challenges within digital systems and IoT environments, though it lacks direct contributions to fault tolerance or blockchain.",
+  "timestamp": "2026-07-05T19:54:34.594081+00:00"
+}

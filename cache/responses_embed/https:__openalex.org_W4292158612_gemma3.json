@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While relevant to cybersecurity concerns, the paper's focus on cyber-security culture within academia during a specific crisis doesn’t directly align with the ARES conference scope of CPS, IoT, Blockchain, or Fault Tolerance.",
+  "timestamp": "2026-07-05T19:14:16.140214+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper describes event-based data collection relevant to cyber range training, aligning with CPS and IoT concepts but lacks specific details on blockchain or fault tolerance.",
+  "timestamp": "2026-07-05T19:53:37.461430+00:00"
+}

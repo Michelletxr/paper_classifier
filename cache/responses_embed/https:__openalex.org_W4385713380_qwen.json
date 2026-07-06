@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper focuses on machine learning for detecting cyber-attacks in IoT networks, which aligns well with the domains of IoT and CPS.",
+  "timestamp": "2026-07-05T19:18:21.099482+00:00"
+}

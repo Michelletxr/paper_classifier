@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on enhancing Cyber Situational Awareness (CSA) through AI and NLP aligns well with the CPS domain, particularly concerning threat intelligence analysis within IoT environments, although the specific technical details could benefit from greater emphasis on cyber physical aspects.",
+  "timestamp": "2026-07-05T19:30:25.509534+00:00"
+}

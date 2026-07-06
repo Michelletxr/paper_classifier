@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on protecting critical infrastructures from combined cyber and physical threats aligns strongly with the ARES conference scope of CPS and IoT, particularly given its realistic scenario-based demonstration.",
+  "timestamp": "2026-07-05T19:23:18.079531+00:00"
+}

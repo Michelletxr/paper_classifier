@@ -1,0 +1,13 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "While the paper discusses cybersecurity education and frameworks relevant to CPS concepts, it lacks specific technical contributions or innovations within those domains, resulting in a moderate relevance score.",
+  "timestamp": "2026-07-05T19:22:51.474762+00:00"
+}

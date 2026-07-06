@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "This paper aligns well with the ARES conference scope by exploring the application of Digital Twin technology within a critical CPS – smart grids, addressing cybersecurity concerns relevant to IoT deployments and regulatory compliance.",
+  "timestamp": "2026-07-05T19:48:45.707422+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on simulating cyber-physical attacks and enhancing security measures aligns well with the CPS domain, particularly concerning resilience and threat assessment, while also having relevance to IoT due to its application in system security.",
+  "timestamp": "2026-07-05T19:26:56.003561+00:00"
+}

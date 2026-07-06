@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper addresses the need to integrate IoT devices into traditional security orchestration platforms, leveraging digital twins for asset management, which aligns with the ARES conference scope on Cyberphysical Systems and IoT.",
+  "timestamp": "2026-07-05T19:10:31.954230+00:00"
+}

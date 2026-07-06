@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on a knowledge graph for cybersecurity aligns with CPS principles and could be relevant to IoT security and fault tolerance aspects of complex systems.",
+  "timestamp": "2026-07-05T19:52:23.825151+00:00"
+}

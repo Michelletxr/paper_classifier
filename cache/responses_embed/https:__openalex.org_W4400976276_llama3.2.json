@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper addresses a specific application of blockchain technology in the automotive industry, enhancing security and privacy for IoV connectivity, which aligns with the ARES conference scope.",
+  "timestamp": "2026-07-05T19:28:35.766140+00:00"
+}

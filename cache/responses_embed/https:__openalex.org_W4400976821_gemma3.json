@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on cybersecurity and knowledge representation for situational awareness aligns well with CPS principles, particularly concerning data integration and decision support within complex systems, although the explicit mention of 'mosaic warfare' is less directly relevant to core CPS research.",
+  "timestamp": "2026-07-05T19:26:01.208565+00:00"
+}

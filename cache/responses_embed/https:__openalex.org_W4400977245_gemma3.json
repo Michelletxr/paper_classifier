@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "This paper aligns well with ARES's focus on CPS and IoT by exploring the use of blockchain-based solutions (IOTA) for secure data exchange within an IoT-Edge-Cloud continuum, addressing trust and immutability – key concerns in these domains.",
+  "timestamp": "2026-07-05T19:29:20.820314+00:00"
+}

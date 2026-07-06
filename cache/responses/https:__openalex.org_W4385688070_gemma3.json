@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper addresses the critical need for robust firmware security analysis tools within diverse IoT devices, aligning with CPS concerns and highlighting vulnerabilities stemming from heterogeneous architectures.",
+  "timestamp": "2026-07-05T19:50:36.811278+00:00"
+}

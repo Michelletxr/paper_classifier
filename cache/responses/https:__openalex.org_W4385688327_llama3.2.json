@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on quantum-safe watchdog timer protocol for IoT devices aligns with the ARES conference scope, but its relevance to CPS and Distributed Systems is limited.",
+  "timestamp": "2026-07-05T19:50:06.675890+00:00"
+}

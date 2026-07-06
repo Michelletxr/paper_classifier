@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "Blockchain",
+    "Distributed Systems"
+  ],
+  "reason": "The paper discusses privacy-preserving computations and data marketplaces, which are strongly related to Blockchain for secure transactions and Distributed Systems for managing such markets efficiently.",
+  "timestamp": "2026-07-05T19:13:27.698237+00:00"
+}

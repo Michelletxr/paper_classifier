@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "While related to cybersecurity and risk assessment, the paper's focus on MITRE ATT&CK and adversarial TTPs primarily aligns with CPS concepts of understanding cyber threats within a system context, though its direct connection to IoT or blockchain is weak.",
+  "timestamp": "2026-07-05T19:09:55.395770+00:00"
+}

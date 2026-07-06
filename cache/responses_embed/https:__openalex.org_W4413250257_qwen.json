@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on enhancing Cyber Situational Awareness with AI, which aligns well with the CPS domain as it involves complex systems and situational understanding. The abstract mentions CTI analysis and enrichment, suggesting relevance to Fault Tolerance for robust data processing and IoT for potentially integrating sensor data into threat intelligence.",
+  "timestamp": "2026-07-05T19:30:22.256332+00:00"
+}

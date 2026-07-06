@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on federated cyber ranges and critical infrastructure scenarios aligns strongly with the CPS domain, particularly concerning security and resilience within complex systems, while also having relevance to IoT due to the potential for interconnected devices in a cyber range environment.",
+  "timestamp": "2026-07-05T19:13:02.943423+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper addresses a critical issue in securing IoT devices, specifically focusing on Hardware Trust Anchor Authentication, which is highly relevant to the ARES conference scope.",
+  "timestamp": "2026-07-05T19:26:21.113694+00:00"
+}

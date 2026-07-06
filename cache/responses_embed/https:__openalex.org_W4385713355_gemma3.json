@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While the paper addresses cybersecurity skills and frameworks – relevant to CPS due to its focus on human factors in cyber systems – it lacks direct connections to core CPS concepts like real-time control or physical system integration, limiting its relevance to the ARES conference scope.",
+  "timestamp": "2026-07-05T19:23:00.928365+00:00"
+}

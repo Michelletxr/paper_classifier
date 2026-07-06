@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on fault trees and assessing confidence in machine learning models aligns with the ARES conference scope of CPS and Fault Tolerance, particularly concerning safety analysis and reliability assessment.",
+  "timestamp": "2026-07-05T19:27:22.403036+00:00"
+}

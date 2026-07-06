@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on classifying critical components in a Federation Cyber Range platform, which is relevant to CPS and IoT, and also addresses fault tolerance by hiding critical information from non-eligible partners.",
+  "timestamp": "2026-07-05T19:13:06.919036+00:00"
+}

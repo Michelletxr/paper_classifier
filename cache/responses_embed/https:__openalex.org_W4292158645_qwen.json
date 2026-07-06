@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on privacy-preserving techniques for sharing cyber threat intelligence, which aligns with the CPS domain as it deals with secure and reliable information exchange in a potentially sensitive environment.",
+  "timestamp": "2026-07-05T19:16:15.364638+00:00"
+}

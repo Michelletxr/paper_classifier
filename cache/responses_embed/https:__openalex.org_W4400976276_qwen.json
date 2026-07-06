@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on integrating blockchain technology into Internet of Vehicles (IoV) infrastructure for enhanced security and privacy, which aligns well with the domains of Blockchain and IoT.",
+  "timestamp": "2026-07-05T19:28:30.625314+00:00"
+}

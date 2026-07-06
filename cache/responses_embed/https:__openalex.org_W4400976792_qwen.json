@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper discusses concepts related to identity management, which aligns well with the Distributed Systems domain and has some relevance to Blockchain for its self-sovereign identities aspect.",
+  "timestamp": "2026-07-05T19:26:34.930024+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on quantum-resistant cybersecurity, which is relevant to CPS and IoT as these domains often rely on secure communication protocols that need to be resilient against future cryptographic threats.",
+  "timestamp": "2026-07-05T19:18:36.586193+00:00"
+}

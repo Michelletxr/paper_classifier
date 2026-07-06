@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper directly addresses security assessment within Cyber-Physical Systems using a model-based approach, aligning strongly with the ARES conference's CPS focus and incorporating elements relevant to fault tolerance through attack graph analysis.",
+  "timestamp": "2026-07-05T19:24:58.850825+00:00"
+}

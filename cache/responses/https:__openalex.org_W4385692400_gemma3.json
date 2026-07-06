@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "This paper investigates a relevant dark web market for cybercrime products, offering insights into the ecosystem and demand, although it doesn't directly address CPS or fault tolerance concepts.",
+  "timestamp": "2026-07-05T19:49:17.120521+00:00"
+}

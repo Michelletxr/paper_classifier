@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Fault Tolerance",
+    "IoT"
+  ],
+  "reason": "The paper addresses fault tolerance within an SDN context, which aligns with the ARES conference scope, but lacks specific details on cybersecurity applications or blockchain integration.",
+  "timestamp": "2026-07-05T19:46:30.442083+00:00"
+}

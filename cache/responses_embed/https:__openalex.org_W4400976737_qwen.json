@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.64,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper discusses Cyber Situation Awareness, which has strong relevance to the CPS domain given its focus on managing and understanding complex cyber environments.",
+  "timestamp": "2026-07-05T19:24:01.065899+00:00"
+}

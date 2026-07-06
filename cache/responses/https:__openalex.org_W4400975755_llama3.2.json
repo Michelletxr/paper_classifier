@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper's focus on e-cash technology and minimizing trust in a traditional blockchain-based system aligns with the ARES conference scope, particularly in Cyberphysical Systems (CPS) and Blockchain.",
+  "timestamp": "2026-07-05T19:53:31.932546+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper discusses digital twins in the context of cyber-physical systems, which aligns well with CPS and IoT domains, while also touching on incident response that could be relevant to fault tolerance.",
+  "timestamp": "2026-07-05T19:48:58.510082+00:00"
+}

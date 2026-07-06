@@ -1,0 +1,12 @@
+{
+  "score": 5,
+  "confidence": 0.6,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on using large language models for cyber threat intelligence, which has a moderate relevance to the CPS domain due to its potential application in cybersecurity systems and fault tolerance mechanisms.",
+  "timestamp": "2026-07-05T19:30:31.845562+00:00"
+}

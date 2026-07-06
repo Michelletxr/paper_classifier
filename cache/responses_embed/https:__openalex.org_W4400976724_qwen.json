@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on vulnerability scoring methodologies which are relevant to cybersecurity, a key aspect of CPS and IoT systems.",
+  "timestamp": "2026-07-05T19:23:51.489622+00:00"
+}

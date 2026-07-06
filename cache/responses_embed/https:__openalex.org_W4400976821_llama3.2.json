@@ -1,0 +1,13 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper's focus on a knowledge graph-based system for cybersecurity and its application to mosaic warfare is relevant to the CPS domain, but lacks direct connection to Blockchain, IoT, Fault Tolerance, or Distributed Systems.",
+  "timestamp": "2026-07-05T19:26:03.743323+00:00"
+}

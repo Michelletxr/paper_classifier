@@ -1,0 +1,13 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper focuses on developing a platform for the Czech National Qualifications Framework in Cybersecurity, which is not directly related to CPS, but shares some similarities with the broader scope of cybersecurity and system development.",
+  "timestamp": "2026-07-05T19:17:19.780963+00:00"
+}

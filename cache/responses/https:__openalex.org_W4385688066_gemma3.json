@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper addresses trust and identity management in IoT devices, aligning with the conference's focus on CPS and IoT security challenges, although it lacks specific technical details about blockchain or fault tolerance.",
+  "timestamp": "2026-07-05T19:50:21.924037+00:00"
+}

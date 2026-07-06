@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper discusses adversarial AI and cyber deception, which are relevant to cybersecurity and could be applied in CPS systems for enhancing resilience against adversarial attacks.",
+  "timestamp": "2026-07-05T19:20:27.314837+00:00"
+}

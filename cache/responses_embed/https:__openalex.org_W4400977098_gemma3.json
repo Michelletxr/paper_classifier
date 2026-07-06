@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper directly addresses a relevant cybersecurity challenge within the IoT domain, focusing on attack detection and feature selection – aligning well with ARES's scope of CPS and IoT security.",
+  "timestamp": "2026-07-05T19:23:36.234236+00:00"
+}

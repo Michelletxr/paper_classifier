@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper focuses on cybersecurity dashboards in smart cities and buildings, which aligns with the CPS domain as it involves cyberphysical systems and IoT components.",
+  "timestamp": "2026-07-05T19:27:01.795813+00:00"
+}

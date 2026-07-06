@@ -1,0 +1,11 @@
+{
+  "score": 2,
+  "confidence": 0.35,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on legal language and its interpretation in cybersecurity, which does not strongly align with the domains of CPS, Blockchain, or IoT.",
+  "timestamp": "2026-07-05T19:22:16.304329+00:00"
+}

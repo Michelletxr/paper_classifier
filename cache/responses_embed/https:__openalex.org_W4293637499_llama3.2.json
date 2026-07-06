@@ -1,0 +1,13 @@
+{
+  "score": 6,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper proposes a semantic web-based approach for managing sharable cybersecurity playbooks, which is relevant to CPS and IoT, but lacks direct connection to Blockchain, Fault Tolerance, or Distributed Systems.",
+  "timestamp": "2026-07-05T19:12:09.941625+00:00"
+}

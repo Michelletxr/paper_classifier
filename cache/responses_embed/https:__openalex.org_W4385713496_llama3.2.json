@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cybersecurity and post-quantum cryptography, which is relevant to CPS and IoT, but the primary emphasis on security protocols and algorithms makes it less directly related to Blockchain and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:18:45.325896+00:00"
+}

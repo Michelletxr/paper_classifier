@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on analyzing and comparing cyber insurance policies using ontology, which is relevant to CPS and Blockchain domains, but lacks direct connection to IoT and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:15:43.929255+00:00"
+}

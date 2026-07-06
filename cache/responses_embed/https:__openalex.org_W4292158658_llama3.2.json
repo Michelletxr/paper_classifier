@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper proposes a blockchain-based incident reporting system, which aligns with the CPS and Blockchain domains, but lacks direct relevance to IoT and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:14:46.907422+00:00"
+}

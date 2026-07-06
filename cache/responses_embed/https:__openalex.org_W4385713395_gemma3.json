@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While the abstract addresses a relevant societal issue (diversity in cybersecurity), it lacks direct technical content related to cyberphysical systems, IoT security, or fault tolerance, making its relevance to the ARES conference scope limited.",
+  "timestamp": "2026-07-05T19:21:28.702217+00:00"
+}

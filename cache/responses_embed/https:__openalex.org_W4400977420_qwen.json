@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper focuses on IoT firmware certification and static analysis, which aligns well with both IoT and CPS domains due to the security and reliability concerns in IoT systems.",
+  "timestamp": "2026-07-05T19:25:21.836068+00:00"
+}

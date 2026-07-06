@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on improving security and scalability in smart grids, which is directly relevant to CPS domain. It also discusses the application of blockchain technology, making it pertinent to Blockchain and IoT domains.",
+  "timestamp": "2026-07-05T19:48:27.438228+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on cybersecurity text classification aligns reasonably well with the CPS and IoT domains due to its relevance to threat detection and intelligence gathering within connected systems.",
+  "timestamp": "2026-07-05T19:15:53.239511+00:00"
+}

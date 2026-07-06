@@ -1,0 +1,12 @@
+{
+  "score": 4,
+  "confidence": 0.6,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cybersecurity micro-credentials and career path design, which are not directly related to CPS, Blockchain, IoT, or Fault Tolerance domains but could be tangentially relevant in a broader context of digital economy and education systems.",
+  "timestamp": "2026-07-05T19:54:31.676292+00:00"
+}

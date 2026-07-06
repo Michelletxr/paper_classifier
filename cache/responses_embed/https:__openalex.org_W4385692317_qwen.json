@@ -1,0 +1,12 @@
+{
+  "score": 2,
+  "confidence": 0.35,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cybersecurity education rather than CPS, Blockchain, IoT, or Fault Tolerance, and does not demonstrate relevance to these domains.",
+  "timestamp": "2026-07-05T19:22:48.330755+00:00"
+}

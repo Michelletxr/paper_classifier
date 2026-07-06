@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on IoT monitoring, threat intelligence, and automation aligns well with the ARES conference scope, particularly within the CPS domain due to its implications for security and operational resilience, although the blockchain component is minimal.",
+  "timestamp": "2026-07-05T19:30:15.814323+00:00"
+}

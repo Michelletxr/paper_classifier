@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper directly addresses CPS security challenges through a model-based approach, incorporating relevant aspects of IoT and potentially fault tolerance considerations within the attack graph analysis.",
+  "timestamp": "2026-07-05T19:51:41.336933+00:00"
+}

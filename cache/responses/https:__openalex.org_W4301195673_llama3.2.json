@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper presents a relevant solution for improving cybersecurity in CPS and IoT environments, but its focus on SDN controller design may limit its applicability to other domains.",
+  "timestamp": "2026-07-05T19:46:33.910050+00:00"
+}

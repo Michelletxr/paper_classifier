@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While the paper addresses cybersecurity – relevant to CPS – its focus on micro-credentials and career path design for human capital development doesn't directly align with core CPS research areas like real-time control or physical system integration.",
+  "timestamp": "2026-07-05T19:30:44.670099+00:00"
+}

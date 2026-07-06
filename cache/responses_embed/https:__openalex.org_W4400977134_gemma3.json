@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on cybersecurity dashboards within smart cities and buildings aligns well with the CPS domain, particularly concerning IoT security applications, although the use of LLMs for evaluation is a novel approach.",
+  "timestamp": "2026-07-05T19:27:04.837710+00:00"
+}

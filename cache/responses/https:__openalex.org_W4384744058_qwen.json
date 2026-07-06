@@ -1,0 +1,10 @@
+{
+  "score": 3,
+  "confidence": 0.45,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper focuses on the integration of IT into ICS and cybersecurity challenges, which are relevant to CPS and IoT domains.",
+  "timestamp": "2026-07-05T19:50:26.691228+00:00"
+}

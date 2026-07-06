@@ -1,0 +1,10 @@
+{
+  "score": 4,
+  "confidence": 0.2,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper focuses on the impact of chatbots on student performance in cybersecurity education, which is not directly related to Cyberphysical Systems or IoT, but rather a broader topic of educational technology and its effects on learning outcomes.",
+  "timestamp": "2026-07-05T19:24:15.260498+00:00"
+}

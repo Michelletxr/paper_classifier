@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on privacy-preserving computations and data marketplaces aligns well with the ARES conference scope, particularly regarding CPS and IoT applications where data security is paramount, although the use of MPC introduces a blockchain element that warrants further investigation.",
+  "timestamp": "2026-07-05T19:13:34.179038+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on defending AI systems against adversarial attacks aligns reasonably well with CPS principles of robust system design and security, particularly concerning IoT devices increasingly utilizing AI, while also touching upon fault tolerance through the platform’s defensive mechanisms.",
+  "timestamp": "2026-07-05T19:23:45.484777+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "Blockchain",
+    "CPS"
+  ],
+  "reason": "The paper's focus on e-cash and minimizing trust aligns well with blockchain applications and the broader CPS concept of secure digital currency systems.",
+  "timestamp": "2026-07-05T19:28:16.665843+00:00"
+}

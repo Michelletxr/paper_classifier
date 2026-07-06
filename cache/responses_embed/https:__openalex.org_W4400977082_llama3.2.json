@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper addresses IoT security risks in critical infrastructures, aligning with the ARES conference scope on CPS and IoT, and touches upon fault tolerance as a crucial aspect of ensuring resilient operation.",
+  "timestamp": "2026-07-05T19:28:01.868026+00:00"
+}

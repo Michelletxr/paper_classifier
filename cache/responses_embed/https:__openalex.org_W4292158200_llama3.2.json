@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper is highly relevant to the ARES conference scope, particularly Blockchain and IoT domains, as it proposes a consensus algorithm for secure and scalable blockchain in the IoT context, addressing performance and energy consumption concerns.",
+  "timestamp": "2026-07-05T19:11:28.041139+00:00"
+}

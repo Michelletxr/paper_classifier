@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper touches on relevant areas like cybercrime and fraud detection using blockchain-related technologies (virtual currencies), aligning with the ARES conference's focus on CPS and IoT security threats.",
+  "timestamp": "2026-07-05T19:48:13.407542+00:00"
+}

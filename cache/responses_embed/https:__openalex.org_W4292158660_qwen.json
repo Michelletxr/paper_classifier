@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "Blockchain",
+    "CPS"
+  ],
+  "reason": "The paper focuses on improving security and scalability in smart grids, which is directly related to the use of blockchain technology for CPS applications.",
+  "timestamp": "2026-07-05T19:16:43.168778+00:00"
+}

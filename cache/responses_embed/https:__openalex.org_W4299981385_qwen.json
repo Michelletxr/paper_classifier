@@ -1,0 +1,11 @@
+{
+  "score": 3,
+  "confidence": 0.4565,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on a cybersecurity application for analyzing job ads, which does not strongly align with the domains of CPS, Blockchain, or IoT.",
+  "timestamp": "2026-07-05T19:15:21.502672+00:00"
+}

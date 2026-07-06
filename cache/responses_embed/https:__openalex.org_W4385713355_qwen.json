@@ -1,0 +1,11 @@
+{
+  "score": 2,
+  "confidence": 0.15,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper's content is focused on cybersecurity qualification frameworks and curation mechanisms, which are not directly related to CPS, Blockchain, or IoT domains as per the given similarity scores.",
+  "timestamp": "2026-07-05T19:22:57.332811+00:00"
+}

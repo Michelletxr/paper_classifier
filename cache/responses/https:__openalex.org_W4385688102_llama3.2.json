@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper addresses a critical concern in IoT development, but its focus on raising awareness and sharing knowledge may not be directly relevant to the ARES conference's scope on Cyberphysical Systems and Blockchain.",
+  "timestamp": "2026-07-05T19:50:45.927597+00:00"
+}

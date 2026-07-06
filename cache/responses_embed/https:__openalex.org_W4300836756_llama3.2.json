@@ -1,0 +1,13 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper's focus on secret sharing in a distributed way, particularly comparing Lagrange and Newton methods, is relevant to Distributed Systems, but lacks direct connection to CPS, IoT, or Blockchain.",
+  "timestamp": "2026-07-05T19:12:52.959078+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper focuses on integrating a European Cybersecurity Skills Framework into a curricula design tool, which is relevant to CPS and IoT, but the content does not explicitly address these domains' core concerns.",
+  "timestamp": "2026-07-05T19:13:51.208096+00:00"
+}

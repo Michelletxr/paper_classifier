@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper discusses Cyber Situation Awareness (CSA), which is relevant to CPS and IoT by focusing on understanding and responding to complex cyber environments, though it lacks specific technical details or novel contributions.",
+  "timestamp": "2026-07-05T19:51:16.044156+00:00"
+}

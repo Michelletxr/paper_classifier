@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on a system for classifying and sharing critical infrastructure components within cyber ranges, which aligns with the CPS domain as it involves physical systems interacting with digital environments. The use of classification models also relates to Fault Tolerance and Distributed Systems aspects in managing and evaluating scenarios dynamically.",
+  "timestamp": "2026-07-05T19:47:07.153191+00:00"
+}

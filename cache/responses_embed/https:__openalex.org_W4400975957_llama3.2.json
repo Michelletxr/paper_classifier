@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper proposes an approach to automate cyber threat attribution using DNS patterns, which is relevant to CPS and IoT, but the focus on precision and accuracy in a specific metric (0.8438) limits its direct applicability to Fault Tolerance.",
+  "timestamp": "2026-07-05T19:25:10.297708+00:00"
+}

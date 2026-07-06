@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper directly addresses incident response in cyber-physical systems and leverages digital twins, aligning strongly with the ARES conference's focus on CPS and IoT applications.",
+  "timestamp": "2026-07-05T19:18:12.359115+00:00"
+}

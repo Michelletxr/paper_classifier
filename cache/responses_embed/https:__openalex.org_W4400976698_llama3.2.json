@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper presents an extension of the System Theoretic Process Analysis method, incorporating Root-Cause Analysis to investigate failure modes and resilience in complex systems, aligning with CPS and Fault Tolerance research areas.",
+  "timestamp": "2026-07-05T19:27:44.233286+00:00"
+}

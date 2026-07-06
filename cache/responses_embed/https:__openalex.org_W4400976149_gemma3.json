@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on cybersecurity controls within Industry 4.0 and Norwegian organizations aligns well with the CPS and IoT domains, particularly given the potential for cyberattacks to impact critical infrastructure and physical systems.",
+  "timestamp": "2026-07-05T19:29:38.436108+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on SDN fault tolerance for cybersecurity applications, which is relevant to CPS and IoT domains due to their reliance on secure and resilient network infrastructures.",
+  "timestamp": "2026-07-05T19:46:25.131880+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While focused on European cybersecurity policy and regulations (relevant to CPS due to its focus on critical infrastructure), the paper's core contribution – an updated incidents information sharing platform – primarily aligns with IoT security considerations and broader cyber resilience efforts within a CPS context.",
+  "timestamp": "2026-07-05T19:16:34.636606+00:00"
+}

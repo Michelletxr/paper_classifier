@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper's focus on IoT security and quantum-safe signatures aligns well with the ARES conference scope, though the explicit mention of blockchain is absent.",
+  "timestamp": "2026-07-05T19:50:04.989358+00:00"
+}

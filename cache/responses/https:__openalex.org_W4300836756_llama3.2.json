@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on secret sharing in a distributed way is relevant to CPS and Blockchain, but its discussion of Newton's interpolation may not be directly applicable to Fault Tolerance or Distributed Systems.",
+  "timestamp": "2026-07-05T19:47:02.377231+00:00"
+}

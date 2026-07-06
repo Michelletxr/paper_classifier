@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper directly addresses attack detection in IoT networks, aligning with the conference's focus on CPS and IoT security, although the use of graph learning could be further explored within a broader distributed systems context.",
+  "timestamp": "2026-07-05T19:20:18.783784+00:00"
+}

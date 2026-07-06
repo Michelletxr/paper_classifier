@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on cyber deception and its impact on operational assessments aligns well with the CPS domain by examining how cyber threats affect system performance and decision-making within a complex environment, particularly relevant to IoT security considerations.",
+  "timestamp": "2026-07-05T19:29:01.486868+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "score": 4,
+  "confidence": 0.35,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper focuses on cybersecurity, knowledge representation, and ontology development which are relevant to Cyberphysical Systems (CPS) and IoT domains but not directly aligned with Blockchain or Fault Tolerance.",
+  "timestamp": "2026-07-05T19:52:20.981079+00:00"
+}

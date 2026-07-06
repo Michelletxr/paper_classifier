@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper is relevant to CPS, IoT, and Fault Tolerance due to its focus on cybersecurity risks identification for ICS, a critical aspect of industrial control systems that require both operational and technological safety.",
+  "timestamp": "2026-07-05T19:21:45.789546+00:00"
+}

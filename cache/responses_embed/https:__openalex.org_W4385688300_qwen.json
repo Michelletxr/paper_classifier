@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.6444,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper focuses on IoT network attack detection, which aligns well with the high similarity score to IoT and CPS domains.",
+  "timestamp": "2026-07-05T19:20:14.402641+00:00"
+}

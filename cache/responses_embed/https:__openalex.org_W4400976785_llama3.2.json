@@ -1,0 +1,13 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper's focus on developing a comprehensive cybersecurity platform to defend against adversarial AI attacks aligns with the ARES conference scope, particularly in Cyberphysical Systems (CPS), where AI systems are increasingly integrated.",
+  "timestamp": "2026-07-05T19:23:47.893750+00:00"
+}

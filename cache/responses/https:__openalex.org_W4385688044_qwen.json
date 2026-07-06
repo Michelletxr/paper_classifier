@@ -1,0 +1,13 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper focuses on Trust Management in IoT, which is directly relevant to the ARES conference scope of Cyberphysical Systems (CPS), and introduces a novel MADM-based approach for trust score calculation that addresses limitations of existing methods.",
+  "timestamp": "2026-07-05T19:50:10.457563+00:00"
+}

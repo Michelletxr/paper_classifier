@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on resilience enhancement in critical infrastructures, which aligns well with the CPS domain and has implications for IoT systems due to their interdependencies. The concept of adaptive multi-level cybersecurity also touches upon fault tolerance principles.",
+  "timestamp": "2026-07-05T19:19:47.514273+00:00"
+}

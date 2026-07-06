@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "Blockchain",
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on blockchain incident reporting and decentralized discussion aligns well with the ARES conference scope, particularly regarding Blockchain and potentially CPS due to security implications within cyberphysical systems.",
+  "timestamp": "2026-07-05T19:14:43.420493+00:00"
+}

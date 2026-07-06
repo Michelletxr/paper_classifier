@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper addresses the need for integrating security orchestration and automation with IoT devices, aligning with ARES conference scope",
+  "timestamp": "2026-07-05T19:45:35.577565+00:00"
+}

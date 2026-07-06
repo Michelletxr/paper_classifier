@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper addresses a relevant problem in IoT security – malware recovery – and proposes a blockchain-based solution, aligning well with the ARES conference's focus on CPS and IoT technologies.",
+  "timestamp": "2026-07-05T19:48:38.143280+00:00"
+}

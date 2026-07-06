@@ -1,0 +1,11 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper's focus on decentralized identity management and its potential applications in CPS, Blockchain, and IoT aligns with the ARES conference scope.",
+  "timestamp": "2026-07-05T19:52:43.552911+00:00"
+}

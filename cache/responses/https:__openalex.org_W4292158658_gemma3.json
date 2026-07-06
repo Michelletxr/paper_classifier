@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper addresses blockchain security incidents with a novel reporting system, aligning with the ARES conference's focus on CPS and Blockchain, though its connection to IoT or Fault Tolerance is weak.",
+  "timestamp": "2026-07-05T19:47:58.351557+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "score": 5,
+  "confidence": 0.6,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper focuses on aligning a cybersecurity platform with EU regulatory frameworks, which is relevant to Cyberphysical Systems (CPS) and Fault Tolerance in terms of system resilience and compliance. However, it does not directly address Blockchain or IoT domains.",
+  "timestamp": "2026-07-05T19:48:19.004740+00:00"
+}

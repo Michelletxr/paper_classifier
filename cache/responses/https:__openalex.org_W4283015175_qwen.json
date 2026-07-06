@@ -1,0 +1,13 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper discusses privacy-preserving computations and data marketplaces, which are relevant to CPS for secure data handling in cyber-physical systems, Blockchain for decentralized computation, IoT for potential use cases of such markets, Fault Tolerance for ensuring robustness against failures, and Distributed Systems for the architecture of a marketplace.",
+  "timestamp": "2026-07-05T19:47:33.642476+00:00"
+}

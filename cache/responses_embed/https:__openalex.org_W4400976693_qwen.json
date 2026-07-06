@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.623,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper focuses on creating a cybersecurity testing environment for 5G and IoT networks, which aligns well with the domains of IoT and CPS (Cyber-Physical Systems), indicating relevance to the ARES conference scope.",
+  "timestamp": "2026-07-05T19:25:49.092493+00:00"
+}

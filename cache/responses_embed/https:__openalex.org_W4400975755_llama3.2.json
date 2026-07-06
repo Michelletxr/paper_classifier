@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "Blockchain",
+    "CPS"
+  ],
+  "reason": "The paper focuses on e-cash technology and its relation to blockchain-based currencies, which is relevant to CPS and Blockchain domains.",
+  "timestamp": "2026-07-05T19:28:18.364466+00:00"
+}

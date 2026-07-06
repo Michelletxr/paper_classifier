@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper directly addresses the protection of critical infrastructures, a core theme within CPS and IoT, while also considering potential cascading failures – relevant to fault tolerance.",
+  "timestamp": "2026-07-05T19:50:59.890916+00:00"
+}

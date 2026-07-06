@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper addresses relevant topics such as cyber-resilience and data privacy mechanisms for Vehicle-to-Everything (V2X) technologies, which are within the scope of ARES conference.",
+  "timestamp": "2026-07-05T19:52:09.022157+00:00"
+}

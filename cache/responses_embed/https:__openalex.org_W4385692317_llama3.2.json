@@ -1,0 +1,13 @@
+{
+  "score": 4,
+  "confidence": 0.2,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper focuses on cybersecurity education, which is not directly related to the ARES conference scope of Cyberphysical Systems, IoT, Blockchain, and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:22:53.626186+00:00"
+}

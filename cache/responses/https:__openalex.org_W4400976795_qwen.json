@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on enhancing the security of the Internet of Vehicles (IoV) ecosystem, which is relevant to Cyberphysical Systems (CPS), Blockchain, and IoT domains.",
+  "timestamp": "2026-07-05T19:53:50.080786+00:00"
+}

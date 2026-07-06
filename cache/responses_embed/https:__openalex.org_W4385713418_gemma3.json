@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While focused on cybersecurity education, the paper's interactive environment and training scenarios align reasonably well with CPS principles of integrating computation and physical systems, particularly concerning security awareness and practical skills development within an educational context.",
+  "timestamp": "2026-07-05T19:19:38.283998+00:00"
+}

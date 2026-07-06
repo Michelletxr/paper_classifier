@@ -1,0 +1,10 @@
+{
+  "score": 2,
+  "confidence": 0.1,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper focuses on the energy sector's cybersecurity culture during a specific time period, which is relevant to CPS and IoT domains due to their interdependencies in critical infrastructure.",
+  "timestamp": "2026-07-05T19:47:48.030376+00:00"
+}

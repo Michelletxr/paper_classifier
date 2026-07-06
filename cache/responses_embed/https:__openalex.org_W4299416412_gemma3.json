@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "While the paper addresses cybersecurity skills gaps – relevant to CPS and IoT – its focus on a national qualifications framework is too specific and lacks technical details concerning cyberphysical systems or blockchain applications, limiting its direct relevance to the ARES conference scope.",
+  "timestamp": "2026-07-05T19:17:15.910684+00:00"
+}

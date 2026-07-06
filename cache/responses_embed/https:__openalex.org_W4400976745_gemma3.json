@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "IoT",
+    "CPS",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper's focus on secure firmware updates and hardware trust anchors within IoT devices aligns well with the ARES conference scope, particularly concerning CPS security and potential fault tolerance implications of compromised key storage.",
+  "timestamp": "2026-07-05T19:26:19.315755+00:00"
+}

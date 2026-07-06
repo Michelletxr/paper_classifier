@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on securing data exchange between Metaverse and IoT applications, which aligns well with the security concerns in both CPS and IoT domains, as well as leveraging blockchain technology for enhanced security.",
+  "timestamp": "2026-07-05T19:19:18.617843+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper focuses on privacy-preserving data sharing, which is relevant to CPS and IoT, but the primary emphasis on cyber threat intelligence and GDPR makes it less directly related to Blockchain and Fault Tolerance.",
+  "timestamp": "2026-07-05T19:16:23.504280+00:00"
+}

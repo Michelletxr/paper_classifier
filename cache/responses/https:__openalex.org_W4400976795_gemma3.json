@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "This paper directly addresses the security challenges of IoV, combining relevant technologies like digital twins and blockchain in a novel way to proactively defend against threats – aligning well with ARES's CPS focus.",
+  "timestamp": "2026-07-05T19:53:53.016472+00:00"
+}

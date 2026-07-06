@@ -1,0 +1,318 @@
+2026-07-05 15:58:19 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 15:58:19 | INFO     | pipeline | 
+2026-07-05 15:58:19 | INFO     | pipeline | ============================================================
+2026-07-05 15:58:19 | INFO     | pipeline |   ETAPA: COLETA
+2026-07-05 15:58:19 | INFO     | pipeline |   DBLP + OpenAlex — Extração federada de artigos ARES
+2026-07-05 15:58:19 | INFO     | pipeline | ============================================================
+2026-07-05 15:58:19 | INFO     | pipeline | Iniciando extração Federada (DBLP -> OpenAlex) para 500 artigos...
+2026-07-05 15:58:19 | INFO     | pipeline | Operação no ano 2022:
+2026-07-05 15:58:19 | INFO     | pipeline | Sincronizando metadados DBLP para 2022...
+2026-07-05 15:58:42 | WARNING  | pipeline | DBLP HTTP 500. Backoff: 2s...
+2026-07-05 15:58:55 | INFO     | pipeline | 33 DOIs identificados. Requisitando resumos ao OpenAlex...
+2026-07-05 15:58:57 | INFO     | pipeline | Ano 2022 enriquecido com sucesso.
+2026-07-05 15:58:58 | INFO     | pipeline | Operação no ano 2023:
+2026-07-05 15:58:58 | INFO     | pipeline | Sincronizando metadados DBLP para 2023...
+2026-07-05 15:59:28 | INFO     | pipeline | 27 DOIs identificados. Requisitando resumos ao OpenAlex...
+2026-07-05 15:59:29 | INFO     | pipeline | Ano 2023 enriquecido com sucesso.
+2026-07-05 15:59:30 | INFO     | pipeline | Operação no ano 2024:
+2026-07-05 15:59:30 | INFO     | pipeline | Sincronizando metadados DBLP para 2024...
+2026-07-05 15:59:46 | WARNING  | pipeline | DBLP HTTP 429. Backoff: 2s...
+2026-07-05 16:00:03 | WARNING  | pipeline | Queda de conexão DBLP ('Resilience'). Backoff: 4s...
+2026-07-05 16:00:08 | WARNING  | pipeline | Queda de conexão DBLP ('Resilience'). Backoff: 8s...
+2026-07-05 16:00:17 | WARNING  | pipeline | Queda de conexão DBLP ('Resilience'). Backoff: 16s...
+2026-07-05 16:00:34 | WARNING  | pipeline | Queda de conexão DBLP ('Resilience'). Backoff: 32s...
+2026-07-05 16:01:06 | INFO     | pipeline | 45 DOIs identificados. Requisitando resumos ao OpenAlex...
+2026-07-05 16:01:07 | INFO     | pipeline | Ano 2024 enriquecido com sucesso.
+2026-07-05 16:01:08 | INFO     | pipeline | Operação no ano 2025:
+2026-07-05 16:01:08 | INFO     | pipeline | Sincronizando metadados DBLP para 2025...
+2026-07-05 16:01:09 | WARNING  | pipeline | Queda de conexão DBLP ('Blockchain'). Backoff: 2s...
+2026-07-05 16:01:13 | WARNING  | pipeline | Queda de conexão DBLP ('Blockchain'). Backoff: 4s...
+2026-07-05 16:01:18 | WARNING  | pipeline | Queda de conexão DBLP ('Blockchain'). Backoff: 8s...
+2026-07-05 16:01:27 | WARNING  | pipeline | Queda de conexão DBLP ('Blockchain'). Backoff: 16s...
+2026-07-05 16:01:44 | WARNING  | pipeline | Queda de conexão DBLP ('Blockchain'). Backoff: 32s...
+2026-07-05 16:02:17 | WARNING  | pipeline | Queda de conexão DBLP ('IoT'). Backoff: 2s...
+2026-07-05 16:02:20 | WARNING  | pipeline | Queda de conexão DBLP ('IoT'). Backoff: 4s...
+2026-07-05 16:02:25 | WARNING  | pipeline | Queda de conexão DBLP ('IoT'). Backoff: 8s...
+2026-07-05 16:02:34 | WARNING  | pipeline | Queda de conexão DBLP ('IoT'). Backoff: 16s...
+2026-07-05 16:02:58 | WARNING  | pipeline | DBLP HTTP 429. Backoff: 2s...
+2026-07-05 16:03:15 | WARNING  | pipeline | Queda de conexão DBLP ('Distributed'). Backoff: 4s...
+2026-07-05 16:03:20 | WARNING  | pipeline | Queda de conexão DBLP ('Distributed'). Backoff: 8s...
+2026-07-05 16:03:29 | WARNING  | pipeline | Queda de conexão DBLP ('Distributed'). Backoff: 16s...
+2026-07-05 16:03:48 | WARNING  | pipeline | Queda de conexão DBLP ('Distributed'). Backoff: 32s...
+2026-07-05 16:04:21 | WARNING  | pipeline | Queda de conexão DBLP ('Resilience'). Backoff: 2s...
+2026-07-05 16:04:24 | WARNING  | pipeline | Queda de conexão DBLP ('Resilience'). Backoff: 4s...
+2026-07-05 16:04:29 | WARNING  | pipeline | Queda de conexão DBLP ('Resilience'). Backoff: 8s...
+2026-07-05 16:04:38 | WARNING  | pipeline | Queda de conexão DBLP ('Resilience'). Backoff: 16s...
+2026-07-05 16:04:56 | WARNING  | pipeline | Queda de conexão DBLP ('Resilience'). Backoff: 32s...
+2026-07-05 16:05:28 | INFO     | pipeline | 26 DOIs identificados. Requisitando resumos ao OpenAlex...
+2026-07-05 16:05:29 | INFO     | pipeline | Ano 2025 enriquecido com sucesso.
+2026-07-05 16:05:30 | INFO     | pipeline | Extração concluída. 131 artigos validados e indexados.
+2026-07-05 16:05:30 | INFO     | pipeline | ---
+2026-07-05 16:05:30 | INFO     | pipeline | Concluído: 131 itens processados em 431.7s
+2026-07-05 16:05:30 | INFO     | pipeline | Output: dataset_raw.csv
+2026-07-05 16:05:30 | INFO     | pipeline | ============================================================
+2026-07-05 16:05:30 | INFO     | pipeline | Etapa concluída. 131 linhas no DataFrame.
+2026-07-05 16:08:44 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 16:08:44 | INFO     | pipeline | 
+2026-07-05 16:08:44 | INFO     | pipeline | ============================================================
+2026-07-05 16:08:44 | INFO     | pipeline |   ETAPA: PRÉ-PROCESSAMENTO
+2026-07-05 16:08:44 | INFO     | pipeline |   Normalização de texto (Unicode, HTML, espaços)
+2026-07-05 16:08:44 | INFO     | pipeline | ============================================================
+2026-07-05 16:08:44 | INFO     | pipeline | ---
+2026-07-05 16:08:44 | INFO     | pipeline | Concluído: 131 itens processados em 0.0s
+2026-07-05 16:08:44 | INFO     | pipeline | Output: dataset_preprocessed.csv
+2026-07-05 16:08:44 | INFO     | pipeline | ============================================================
+2026-07-05 16:08:44 | INFO     | pipeline | Etapa concluída. 131 linhas no DataFrame.
+2026-07-05 16:08:59 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 16:08:59 | INFO     | pipeline | 
+2026-07-05 16:08:59 | INFO     | pipeline | ============================================================
+2026-07-05 16:08:59 | INFO     | pipeline |   ETAPA: EMBEDDINGS
+2026-07-05 16:08:59 | INFO     | pipeline |   SentenceTransformer: BAAI/bge-large-en-v1.5
+2026-07-05 16:08:59 | INFO     | pipeline | ============================================================
+2026-07-05 16:09:11 | INFO     | pipeline | ---
+2026-07-05 16:09:11 | INFO     | pipeline | Concluído: 131 itens processados em 12.6s
+2026-07-05 16:09:11 | INFO     | pipeline | Output: dataset_embeddings.pkl
+2026-07-05 16:09:11 | INFO     | pipeline | ============================================================
+2026-07-05 16:09:11 | INFO     | pipeline | Etapa concluída. 131 linhas no DataFrame.
+2026-07-05 16:09:33 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 16:09:33 | INFO     | pipeline | 
+2026-07-05 16:09:33 | INFO     | pipeline | ============================================================
+2026-07-05 16:09:33 | INFO     | pipeline |   ETAPA: ENSEMBLE DE LLMs (COM EMBEDDINGS)
+2026-07-05 16:09:33 | INFO     | pipeline |   Modelos: qwen, gemma3, llama3.2 | Similaridade artigo–domínio via BAAI/bge-large-en-v1.5 | Cache: cache/responses_embed/
+2026-07-05 16:09:33 | INFO     | pipeline | ============================================================
+2026-07-05 16:09:33 | INFO     | pipeline | Calculando similaridade artigo–domínio para 131 artigos...
+2026-07-05 16:09:44 | INFO     | pipeline |   Similaridade média sim_max: 0.6055
+2026-07-05 16:09:44 | INFO     | pipeline |   Similaridade média CPS: 0.5746
+2026-07-05 16:09:44 | INFO     | pipeline |   Similaridade média Blockchain: 0.5427
+2026-07-05 16:09:44 | INFO     | pipeline |   Similaridade média IoT: 0.5308
+2026-07-05 16:09:44 | INFO     | pipeline |   Similaridade média Fault Tolerance: 0.5329
+2026-07-05 16:09:44 | INFO     | pipeline |   Similaridade média Distributed Systems: 0.5467
+2026-07-05 16:30:48 | INFO     | pipeline | Ensemble COM embeddings concluído: 131 artigos em 1275.2s | Aprovados: 103 (≥5.0) | Rejeitados: 28
+2026-07-05 16:30:48 | INFO     | pipeline | Cache (embed): /Users/michelle.teixeira/classification_ares/cache/responses_embed
+2026-07-05 16:30:48 | INFO     | pipeline | ============================================================
+2026-07-05 16:30:48 | INFO     | pipeline | Etapa concluída. 131 linhas no DataFrame.
+2026-07-05 16:38:54 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 16:38:55 | INFO     | pipeline | 
+2026-07-05 16:38:55 | INFO     | pipeline | ============================================================
+2026-07-05 16:38:55 | INFO     | pipeline |   ETAPA: AGREGAÇÃO
+2026-07-05 16:38:55 | INFO     | pipeline |   Mediana, remoção de outliers, Spearman, ICC
+2026-07-05 16:38:55 | INFO     | pipeline | ============================================================
+2026-07-05 16:38:55 | ERROR    | pipeline | Nenhuma resposta de LLM encontrada em /Users/michelle.teixeira/classification_ares/cache/responses.
+2026-07-05 16:38:55 | ERROR    | pipeline | Execute a etapa 'llm' primeiro: python pipeline.py --stage llm
+2026-07-05 16:38:55 | INFO     | pipeline | Etapa concluída. 131 linhas no DataFrame.
+2026-07-05 16:45:08 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 16:45:08 | INFO     | pipeline | 
+2026-07-05 16:45:08 | INFO     | pipeline | ============================================================
+2026-07-05 16:45:08 | INFO     | pipeline |   ETAPA: ENSEMBLE DE LLMs
+2026-07-05 16:45:08 | INFO     | pipeline |   Modelos: qwen, gemma3, llama3.2 | Temperatura: 0.0 | Filtro: sim_max ≥ 60% | Cache: cache/responses/
+2026-07-05 16:45:08 | INFO     | pipeline | ============================================================
+2026-07-05 16:45:21 | INFO     | pipeline | Similaridade média (sim_max): 0.6055
+2026-07-05 16:45:21 | INFO     | pipeline | Filtro de similaridade: 66 artigos com sim_max ≥ 60% → LLM | 65 artigos com sim_max < 60% → S_Quali = 0
+2026-07-05 16:54:38 | INFO     | pipeline | Ensemble concluído: 66 avaliados + 65 pulados = 131 artigos em 569.2s | Aprovados: 60 (≥5.0) | Rejeitados: 71
+2026-07-05 16:54:38 | INFO     | pipeline | Respostas cache: /Users/michelle.teixeira/classification_ares/cache/responses
+2026-07-05 16:54:38 | INFO     | pipeline | ============================================================
+2026-07-05 16:54:38 | INFO     | pipeline | Etapa concluída. 131 linhas no DataFrame.
+2026-07-05 16:57:27 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 16:57:27 | INFO     | pipeline | 
+2026-07-05 16:57:27 | INFO     | pipeline | ============================================================
+2026-07-05 16:57:27 | INFO     | pipeline |   ETAPA: AGREGAÇÃO
+2026-07-05 16:57:27 | INFO     | pipeline |   Mediana, remoção de outliers, Spearman, ICC
+2026-07-05 16:57:27 | INFO     | pipeline | ============================================================
+2026-07-05 16:57:27 | INFO     | pipeline | Respostas carregadas do cache: 183
+2026-07-05 16:57:27 | INFO     | pipeline | ICC: 0.6917 | Spearman médio: 0.4880
+2026-07-05 16:57:27 | INFO     | pipeline | ---
+2026-07-05 16:57:27 | INFO     | pipeline | Concluído: 131 itens processados em 0.0s
+2026-07-05 16:57:27 | INFO     | pipeline | Output: agreement.csv
+2026-07-05 16:57:27 | INFO     | pipeline | ============================================================
+2026-07-05 16:57:27 | INFO     | pipeline | Etapa concluída. 131 linhas no DataFrame.
+2026-07-05 16:57:52 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 16:57:52 | INFO     | pipeline | 
+2026-07-05 16:57:52 | INFO     | pipeline | ============================================================
+2026-07-05 16:57:52 | INFO     | pipeline |   ETAPA: BIBLIOMETRIA
+2026-07-05 16:57:52 | INFO     | pipeline |   Citações (peso 0.7) + Citações influentes (peso 0.3)
+2026-07-05 16:57:52 | INFO     | pipeline | ============================================================
+2026-07-05 16:57:52 | INFO     | pipeline | Artigos acima da nota de corte (5.0): 0
+2026-07-05 16:57:52 | INFO     | pipeline | Artigos rejeitados: 131
+2026-07-05 16:57:52 | WARNING  | pipeline | Nenhum artigo superou a nota de corte. Abortando.
+2026-07-05 16:57:52 | INFO     | pipeline | Etapa concluída. 131 linhas no DataFrame.
+2026-07-05 16:59:21 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 16:59:21 | INFO     | pipeline | 
+2026-07-05 16:59:21 | INFO     | pipeline | ============================================================
+2026-07-05 16:59:21 | INFO     | pipeline |   ETAPA: ENSEMBLE DE LLMs
+2026-07-05 16:59:21 | INFO     | pipeline |   Modelos: qwen, gemma3, llama3.2 | Temperatura: 0.0 | Filtro: sim_max ≥ 60% | Cache: cache/responses/
+2026-07-05 16:59:21 | INFO     | pipeline | ============================================================
+2026-07-05 16:59:33 | INFO     | pipeline | Similaridade média (sim_max): 0.6055
+2026-07-05 16:59:33 | INFO     | pipeline | Filtro de similaridade: 66 artigos com sim_max ≥ 60% → LLM | 65 artigos com sim_max < 60% → S_Quali = 0
+2026-07-05 17:01:05 | INFO     | pipeline | Ensemble concluído: 66 avaliados + 65 pulados = 131 artigos em 104.6s | Aprovados: 60 (≥5.0) | Rejeitados: 71
+2026-07-05 17:01:05 | INFO     | pipeline | Respostas cache: /Users/michelle.teixeira/classification_ares/cache/responses
+2026-07-05 17:01:05 | INFO     | pipeline | ============================================================
+2026-07-05 17:01:05 | INFO     | pipeline | Etapa concluída. 131 linhas no DataFrame.
+2026-07-05 17:04:58 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 17:04:58 | INFO     | pipeline | 
+2026-07-05 17:04:58 | INFO     | pipeline | ============================================================
+2026-07-05 17:04:58 | INFO     | pipeline |   ETAPA: AGREGAÇÃO
+2026-07-05 17:04:58 | INFO     | pipeline |   Mediana, remoção de outliers, Spearman, ICC
+2026-07-05 17:04:58 | INFO     | pipeline | ============================================================
+2026-07-05 17:04:58 | INFO     | pipeline | Respostas carregadas do cache: 183
+2026-07-05 17:04:58 | INFO     | pipeline | ICC: 0.6917 | Spearman médio: 0.4880
+2026-07-05 17:04:58 | INFO     | pipeline | ---
+2026-07-05 17:04:58 | INFO     | pipeline | Concluído: 131 itens processados em 0.0s
+2026-07-05 17:04:58 | INFO     | pipeline | Output: agreement.csv
+2026-07-05 17:04:58 | INFO     | pipeline | ============================================================
+2026-07-05 17:04:58 | INFO     | pipeline | Etapa concluída. 131 linhas no DataFrame.
+2026-07-05 17:05:09 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 17:05:09 | INFO     | pipeline | 
+2026-07-05 17:05:09 | INFO     | pipeline | ============================================================
+2026-07-05 17:05:09 | INFO     | pipeline |   ETAPA: BIBLIOMETRIA
+2026-07-05 17:05:09 | INFO     | pipeline |   Citações (peso 0.7) + Citações influentes (peso 0.3)
+2026-07-05 17:05:09 | INFO     | pipeline | ============================================================
+2026-07-05 17:05:09 | INFO     | pipeline | Artigos acima da nota de corte (5.0): 0
+2026-07-05 17:05:09 | INFO     | pipeline | Artigos rejeitados: 131
+2026-07-05 17:05:09 | WARNING  | pipeline | Nenhum artigo superou a nota de corte. Abortando.
+2026-07-05 17:05:09 | INFO     | pipeline | Etapa concluída. 131 linhas no DataFrame.
+2026-07-05 17:07:11 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 17:07:11 | INFO     | pipeline | 
+2026-07-05 17:07:11 | INFO     | pipeline | ============================================================
+2026-07-05 17:07:11 | INFO     | pipeline |   ETAPA: BIBLIOMETRIA
+2026-07-05 17:07:11 | INFO     | pipeline |   Citações (peso 0.7) + Citações influentes (peso 0.3)
+2026-07-05 17:07:11 | INFO     | pipeline | ============================================================
+2026-07-05 17:07:11 | INFO     | pipeline | Artigos acima da nota de corte (5.0): 0
+2026-07-05 17:07:11 | INFO     | pipeline | Artigos rejeitados: 131
+2026-07-05 17:07:11 | WARNING  | pipeline | Nenhum artigo superou a nota de corte. Abortando.
+2026-07-05 17:07:11 | INFO     | pipeline | Etapa concluída. 131 linhas no DataFrame.
+2026-07-05 17:07:20 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 17:07:20 | INFO     | pipeline | 
+2026-07-05 17:07:20 | INFO     | pipeline | ============================================================
+2026-07-05 17:07:20 | INFO     | pipeline |   ETAPA: RANKING + OUTPUTS
+2026-07-05 17:07:20 | INFO     | pipeline |   TOP_10 | Score Global = 0.6×SQuali + 0.4×SQuant
+2026-07-05 17:07:20 | INFO     | pipeline | ============================================================
+2026-07-05 17:07:20 | ERROR    | pipeline | Coluna 'Score_Global' não encontrada. Execute 'bibliometria' primeiro.
+2026-07-05 17:07:31 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 17:07:31 | INFO     | pipeline | 
+2026-07-05 17:07:31 | INFO     | pipeline | ============================================================
+2026-07-05 17:07:31 | INFO     | pipeline |   ETAPA: BIBLIOMETRIA
+2026-07-05 17:07:31 | INFO     | pipeline |   Citações (peso 0.7) + Citações influentes (peso 0.3)
+2026-07-05 17:07:31 | INFO     | pipeline | ============================================================
+2026-07-05 17:07:31 | INFO     | pipeline | Artigos acima da nota de corte (5.0): 0
+2026-07-05 17:07:31 | INFO     | pipeline | Artigos rejeitados: 131
+2026-07-05 17:07:31 | WARNING  | pipeline | Nenhum artigo superou a nota de corte. Abortando.
+2026-07-05 17:07:31 | INFO     | pipeline | Etapa concluída. 131 linhas no DataFrame.
+2026-07-05 17:09:18 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 17:09:18 | INFO     | pipeline | 
+2026-07-05 17:09:18 | INFO     | pipeline | ============================================================
+2026-07-05 17:09:18 | INFO     | pipeline |   ETAPA: BIBLIOMETRIA
+2026-07-05 17:09:18 | INFO     | pipeline |   Citações (peso 0.7) + Citações influentes (peso 0.3)
+2026-07-05 17:09:18 | INFO     | pipeline | ============================================================
+2026-07-05 17:09:18 | INFO     | pipeline | Artigos acima da nota de corte (5.0): 60
+2026-07-05 17:09:18 | INFO     | pipeline | Artigos rejeitados: 71
+2026-07-05 17:09:18 | INFO     | pipeline | Processando ranqueamento quantitativo...
+2026-07-05 17:09:18 | INFO     | pipeline | ---
+2026-07-05 17:09:18 | INFO     | pipeline | Concluído: 60 itens processados em 0.0s
+2026-07-05 17:09:18 | INFO     | pipeline | Output: (S_Quant, Score_Global)
+2026-07-05 17:09:18 | INFO     | pipeline | ============================================================
+2026-07-05 17:09:18 | INFO     | pipeline | Etapa concluída. 60 linhas no DataFrame.
+2026-07-05 17:09:40 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 17:09:40 | INFO     | pipeline | 
+2026-07-05 17:09:40 | INFO     | pipeline | ============================================================
+2026-07-05 17:09:40 | INFO     | pipeline |   ETAPA: RANKING + OUTPUTS
+2026-07-05 17:09:40 | INFO     | pipeline |   TOP_10 | Score Global = 0.6×SQuali + 0.4×SQuant
+2026-07-05 17:09:40 | INFO     | pipeline | ============================================================
+2026-07-05 17:09:40 | INFO     | pipeline | Ranking completo: /Users/michelle.teixeira/classification_ares/outputs/ranking.csv (60 artigos)
+2026-07-05 17:09:40 | INFO     | pipeline | TOP_10 selecionados:
+2026-07-05 17:09:40 | INFO     | pipeline |   1. [Score: 8.60] Exploiting Digital Twin technology for Cybersecurity Monitoring in Smart Grids
+2026-07-05 17:09:40 | INFO     | pipeline |   2. [Score: 7.60] Digital Twin-Enhanced Incident Response for Cyber-Physical Systems
+2026-07-05 17:09:40 | INFO     | pipeline |   3. [Score: 7.46] SOAR4IoT: Securing IoT Assets with Digital Twins
+2026-07-05 17:09:40 | INFO     | pipeline |   4. [Score: 6.90] Artificial Intelligence for next generation cybersecurity: The AI4CYBER framewor
+2026-07-05 17:09:40 | INFO     | pipeline |   5. [Score: 6.68] On Deploying Quantum-Resistant Cybersecurity in Intelligent Infrastructures
+2026-07-05 17:09:40 | INFO     | pipeline |   6. [Score: 6.46] Comparison of Multiple Feature Selection Techniques for Machine Learning-Based D
+2026-07-05 17:09:40 | INFO     | pipeline |   7. [Score: 6.32] Securing Data Exchange in the Convergence of Metaverse and IoT Applications
+2026-07-05 17:09:40 | INFO     | pipeline |   8. [Score: 6.26] A Near Real-Time Scheme for Collecting and Analyzing IoT Malware Artifacts at Sc
+2026-07-05 17:09:40 | INFO     | pipeline |   9. [Score: 5.89] IoT Network Attack Detection: Leveraging Graph Learning for Enhanced Security
+2026-07-05 17:09:40 | INFO     | pipeline |   10. [Score: 5.89] Privacy Impact Assessment of Cyber Attacks on Connected and Autonomous Vehicles
+2026-07-05 17:09:40 | INFO     | pipeline | Extraindo perfis semânticos...
+2026-07-05 17:09:44 | INFO     | pipeline | Dataset final exportado: /Users/michelle.teixeira/classification_ares/outputs/dataset_final.xlsx
+2026-07-05 17:09:44 | INFO     | pipeline | Metadados do experimento exportados: /Users/michelle.teixeira/classification_ares/outputs/experiment.json
+2026-07-05 17:09:44 | INFO     | pipeline | ---
+2026-07-05 17:09:44 | INFO     | pipeline | Concluído: 60 itens processados em 4.6s
+2026-07-05 17:09:44 | INFO     | pipeline | Output: ranking.csv, dataset_final.xlsx, experiment.json
+2026-07-05 17:09:44 | INFO     | pipeline | ============================================================
+2026-07-05 17:09:44 | INFO     | pipeline | Etapa concluída. 10 linhas no DataFrame.
+2026-07-05 17:11:50 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 17:11:50 | INFO     | pipeline | 
+2026-07-05 17:11:50 | INFO     | pipeline | ============================================================
+2026-07-05 17:11:50 | INFO     | pipeline |   ETAPA: RANKING + OUTPUTS
+2026-07-05 17:11:50 | INFO     | pipeline |   TOP_10 | Score Global = 0.6×SQuali + 0.4×SQuant
+2026-07-05 17:11:50 | INFO     | pipeline | ============================================================
+2026-07-05 17:11:50 | INFO     | pipeline | Ranking completo: /Users/michelle.teixeira/classification_ares/outputs/ranking.csv (60 artigos)
+2026-07-05 17:11:50 | INFO     | pipeline | TOP_10 selecionados:
+2026-07-05 17:11:50 | INFO     | pipeline |   1. [Score: 8.60] Exploiting Digital Twin technology for Cybersecurity Monitoring in Smart Grids
+2026-07-05 17:11:50 | INFO     | pipeline |   2. [Score: 7.60] Digital Twin-Enhanced Incident Response for Cyber-Physical Systems
+2026-07-05 17:11:50 | INFO     | pipeline |   3. [Score: 7.46] SOAR4IoT: Securing IoT Assets with Digital Twins
+2026-07-05 17:11:50 | INFO     | pipeline |   4. [Score: 6.90] Artificial Intelligence for next generation cybersecurity: The AI4CYBER framewor
+2026-07-05 17:11:50 | INFO     | pipeline |   5. [Score: 6.68] On Deploying Quantum-Resistant Cybersecurity in Intelligent Infrastructures
+2026-07-05 17:11:50 | INFO     | pipeline |   6. [Score: 6.46] Comparison of Multiple Feature Selection Techniques for Machine Learning-Based D
+2026-07-05 17:11:50 | INFO     | pipeline |   7. [Score: 6.32] Securing Data Exchange in the Convergence of Metaverse and IoT Applications
+2026-07-05 17:11:50 | INFO     | pipeline |   8. [Score: 6.26] A Near Real-Time Scheme for Collecting and Analyzing IoT Malware Artifacts at Sc
+2026-07-05 17:11:50 | INFO     | pipeline |   9. [Score: 5.89] IoT Network Attack Detection: Leveraging Graph Learning for Enhanced Security
+2026-07-05 17:11:50 | INFO     | pipeline |   10. [Score: 5.89] Privacy Impact Assessment of Cyber Attacks on Connected and Autonomous Vehicles
+2026-07-05 17:11:50 | INFO     | pipeline | Perfis semânticos: DESABILITADOS (Gemini API indisponível)
+2026-07-05 17:11:50 | INFO     | pipeline | Dataset final exportado: /Users/michelle.teixeira/classification_ares/outputs/dataset_final.xlsx
+2026-07-05 17:11:50 | INFO     | pipeline | Metadados do experimento exportados: /Users/michelle.teixeira/classification_ares/outputs/experiment.json
+2026-07-05 17:11:50 | INFO     | pipeline | ---
+2026-07-05 17:11:50 | INFO     | pipeline | Concluído: 60 itens processados em 0.1s
+2026-07-05 17:11:50 | INFO     | pipeline | Output: ranking.csv, dataset_final.xlsx, experiment.json
+2026-07-05 17:11:50 | INFO     | pipeline | ============================================================
+2026-07-05 17:11:50 | INFO     | pipeline | Etapa concluída. 10 linhas no DataFrame.
+2026-07-05 19:56:08 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 19:56:08 | INFO     | pipeline | 
+2026-07-05 19:56:08 | INFO     | pipeline | ============================================================
+2026-07-05 19:56:08 | INFO     | pipeline |   ETAPA: RANKING + OUTPUTS
+2026-07-05 19:56:08 | INFO     | pipeline |   TOP_10 | Score Global = 0.6×SQuali + 0.4×SQuant
+2026-07-05 19:56:08 | INFO     | pipeline | ============================================================
+2026-07-05 19:56:08 | INFO     | pipeline | Ranking completo: /Users/michelle.teixeira/classification_ares/outputs/ranking.csv (60 artigos)
+2026-07-05 19:56:08 | INFO     | pipeline | TOP_10 selecionados:
+2026-07-05 19:56:08 | INFO     | pipeline |   1. [Score: 8.60] Exploiting Digital Twin technology for Cybersecurity Monitoring in Smart Grids
+2026-07-05 19:56:08 | INFO     | pipeline |   2. [Score: 7.60] Digital Twin-Enhanced Incident Response for Cyber-Physical Systems
+2026-07-05 19:56:08 | INFO     | pipeline |   3. [Score: 7.46] SOAR4IoT: Securing IoT Assets with Digital Twins
+2026-07-05 19:56:08 | INFO     | pipeline |   4. [Score: 6.90] Artificial Intelligence for next generation cybersecurity: The AI4CYBER framewor
+2026-07-05 19:56:08 | INFO     | pipeline |   5. [Score: 6.68] On Deploying Quantum-Resistant Cybersecurity in Intelligent Infrastructures
+2026-07-05 19:56:08 | INFO     | pipeline |   6. [Score: 6.46] Comparison of Multiple Feature Selection Techniques for Machine Learning-Based D
+2026-07-05 19:56:08 | INFO     | pipeline |   7. [Score: 6.32] Securing Data Exchange in the Convergence of Metaverse and IoT Applications
+2026-07-05 19:56:08 | INFO     | pipeline |   8. [Score: 6.26] A Near Real-Time Scheme for Collecting and Analyzing IoT Malware Artifacts at Sc
+2026-07-05 19:56:08 | INFO     | pipeline |   9. [Score: 5.89] IoT Network Attack Detection: Leveraging Graph Learning for Enhanced Security
+2026-07-05 19:56:08 | INFO     | pipeline |   10. [Score: 5.89] Privacy Impact Assessment of Cyber Attacks on Connected and Autonomous Vehicles
+2026-07-05 19:56:08 | INFO     | pipeline | Perfis semânticos: DESABILITADOS (Gemini API indisponível)
+2026-07-05 19:56:08 | INFO     | pipeline | CSV salvo: /Users/michelle.teixeira/classification_ares/outputs/aprovados.csv (60 artigos)
+2026-07-05 19:56:08 | INFO     | pipeline | CSV salvo: /Users/michelle.teixeira/classification_ares/outputs/rejeitados.csv (71 artigos)
+2026-07-05 19:56:08 | INFO     | pipeline | CSV salvo: /Users/michelle.teixeira/classification_ares/outputs/top10.csv (10 artigos)
+2026-07-05 19:56:08 | INFO     | pipeline | Excel exportado: /Users/michelle.teixeira/classification_ares/outputs/dataset_final.xlsx
+2026-07-05 19:56:08 | INFO     | pipeline | Metadados do experimento exportados: /Users/michelle.teixeira/classification_ares/outputs/experiment.json
+2026-07-05 19:56:08 | INFO     | pipeline | ---
+2026-07-05 19:56:08 | INFO     | pipeline | Concluído: 60 itens processados em 0.1s
+2026-07-05 19:56:08 | INFO     | pipeline | Output: ranking.csv, dataset_final.xlsx, experiment.json
+2026-07-05 19:56:08 | INFO     | pipeline | ============================================================
+2026-07-05 19:56:08 | INFO     | pipeline | Etapa concluída. 10 linhas no DataFrame.
+2026-07-05 21:07:47 | INFO     | pipeline | Modo: etapa única | MODO_PRODUCAO=True
+2026-07-05 21:07:47 | INFO     | pipeline | 
+2026-07-05 21:07:47 | INFO     | pipeline | ============================================================
+2026-07-05 21:07:47 | INFO     | pipeline |   ETAPA: RANKING + OUTPUTS
+2026-07-05 21:07:47 | INFO     | pipeline |   TOP_5 | Score Global = 0.6×SQuali + 0.4×SQuant
+2026-07-05 21:07:47 | INFO     | pipeline | ============================================================
+2026-07-05 21:07:47 | INFO     | pipeline | Ranking completo: /Users/michelle.teixeira/classification_ares/outputs/ranking.csv (60 artigos)
+2026-07-05 21:07:47 | INFO     | pipeline | TOP_5 selecionados:
+2026-07-05 21:07:47 | INFO     | pipeline |   1. [Score: 8.60] Exploiting Digital Twin technology for Cybersecurity Monitoring in Smart Grids
+2026-07-05 21:07:47 | INFO     | pipeline |   2. [Score: 7.60] Digital Twin-Enhanced Incident Response for Cyber-Physical Systems
+2026-07-05 21:07:47 | INFO     | pipeline |   3. [Score: 7.46] SOAR4IoT: Securing IoT Assets with Digital Twins
+2026-07-05 21:07:47 | INFO     | pipeline |   4. [Score: 6.90] Artificial Intelligence for next generation cybersecurity: The AI4CYBER framewor
+2026-07-05 21:07:47 | INFO     | pipeline |   5. [Score: 6.68] On Deploying Quantum-Resistant Cybersecurity in Intelligent Infrastructures
+2026-07-05 21:07:47 | INFO     | pipeline | Perfis semânticos: DESABILITADOS (Gemini API indisponível)
+2026-07-05 21:07:47 | INFO     | pipeline | CSV salvo: /Users/michelle.teixeira/classification_ares/outputs/aprovados.csv (60 artigos)
+2026-07-05 21:07:47 | INFO     | pipeline | CSV salvo: /Users/michelle.teixeira/classification_ares/outputs/rejeitados.csv (71 artigos)
+2026-07-05 21:07:47 | INFO     | pipeline | CSV salvo: /Users/michelle.teixeira/classification_ares/outputs/top5.csv (5 artigos)
+2026-07-05 21:07:47 | INFO     | pipeline | Excel exportado: /Users/michelle.teixeira/classification_ares/outputs/dataset_final.xlsx
+2026-07-05 21:07:47 | INFO     | pipeline | Metadados do experimento exportados: /Users/michelle.teixeira/classification_ares/outputs/experiment.json
+2026-07-05 21:07:47 | INFO     | pipeline | ---
+2026-07-05 21:07:47 | INFO     | pipeline | Concluído: 60 itens processados em 0.1s
+2026-07-05 21:07:47 | INFO     | pipeline | Output: ranking.csv, dataset_final.xlsx, experiment.json
+2026-07-05 21:07:47 | INFO     | pipeline | ============================================================
+2026-07-05 21:07:47 | INFO     | pipeline | Etapa concluída. 5 linhas no DataFrame.

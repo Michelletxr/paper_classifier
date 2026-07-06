@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.75,
+  "domains": [
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on a blockchain-based malware recovery framework for IoT devices, which aligns well with the Blockchain and IoT domains based on its abstract content.",
+  "timestamp": "2026-07-05T19:17:24.619561+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper focuses on cyber-security measures for EPES systems in the context of 5G technology, which aligns well with CPS and IoT domains due to their reliance on communication networks and energy infrastructure.",
+  "timestamp": "2026-07-05T19:12:28.739204+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "Blockchain",
+    "CPS"
+  ],
+  "reason": "The paper discusses e-cash technology based on foundational work similar to blockchain but with a focus on minimizing trust, which aligns well with the Blockchain and CPS domains due to its potential integration into secure hardware systems.",
+  "timestamp": "2026-07-05T19:28:14.190582+00:00"
+}

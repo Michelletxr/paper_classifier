@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.54,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper discusses AI-based solutions for detecting cyberattacks, which aligns with the need for robust security measures in CPS and network forensics contexts, as well as the potential use of machine learning algorithms in cybersecurity applications.",
+  "timestamp": "2026-07-05T19:29:07.687913+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "score": 8,
+  "confidence": 0.75,
+  "domains": [
+    "IoT",
+    "CPS"
+  ],
+  "reason": "The paper focuses on Trust Management in IoT, which aligns well with the IoT domain and has implications for CPS due to their interdependencies.",
+  "timestamp": "2026-07-05T19:20:55.116067+00:00"
+}

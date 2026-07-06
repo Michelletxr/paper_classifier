@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.9,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on integrating blockchain technology into the Internet of Vehicles (IoV) infrastructure, addressing security and privacy concerns in CPS and IoT systems.",
+  "timestamp": "2026-07-05T19:53:42.364465+00:00"
+}

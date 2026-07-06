@@ -1,0 +1,12 @@
+{
+  "score": 4,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on the darkweb marketplaces for cyber-crime products, which aligns with Blockchain and IoT domains due to their potential use in such markets, but does not strongly relate to CPS or Fault Tolerance.",
+  "timestamp": "2026-07-05T19:19:05.208894+00:00"
+}

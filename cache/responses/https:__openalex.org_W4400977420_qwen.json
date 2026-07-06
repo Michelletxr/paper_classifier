@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on firmware certification for IoT devices, which is relevant to the security and reliability aspects of CPS and IoT systems.",
+  "timestamp": "2026-07-05T19:51:54.644528+00:00"
+}

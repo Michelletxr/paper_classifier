@@ -1,0 +1,13 @@
+{
+  "score": 6,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper's focus on optimizing cybersecurity investments and strategies is relevant to CPS, but the lack of explicit connection to IoT, Blockchain, or Fault Tolerance makes it less directly applicable to these domains.",
+  "timestamp": "2026-07-05T19:10:16.104363+00:00"
+}

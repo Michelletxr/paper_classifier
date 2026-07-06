@@ -1,0 +1,10 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper focuses on smart meters, which are part of the critical infrastructure (CPS) and IoT systems, aligning well with these domains.",
+  "timestamp": "2026-07-05T19:11:47.313533+00:00"
+}

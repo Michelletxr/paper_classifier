@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.65,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on cybersecurity risk management within the Telecom Industry 4.0 aligns reasonably well with CPS and IoT concepts, particularly concerning the increased attack surface and vulnerabilities arising from complex technological evolution.",
+  "timestamp": "2026-07-05T19:28:08.278394+00:00"
+}

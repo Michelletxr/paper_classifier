@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.8,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on feature selection techniques for detecting IoT attacks, which is relevant to the CPS and IoT domains of ARES conference scope.",
+  "timestamp": "2026-07-05T19:51:04.953780+00:00"
+}

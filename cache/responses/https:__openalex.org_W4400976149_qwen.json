@@ -1,0 +1,11 @@
+{
+  "score": 4,
+  "confidence": 0.6,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on the deployment of cybersecurity controls in Industry 4.0, which is relevant to CPS and IoT domains.",
+  "timestamp": "2026-07-05T19:54:14.765931+00:00"
+}

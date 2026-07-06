@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper is highly relevant to the ARES conference scope, particularly in Blockchain and CPS domains, as it proposes a scalable and secure solution for smart grids using blockchain technologies.",
+  "timestamp": "2026-07-05T19:16:51.442182+00:00"
+}

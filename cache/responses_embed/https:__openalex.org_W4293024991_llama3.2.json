@@ -1,0 +1,13 @@
+{
+  "score": 8,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance",
+    "Distributed Systems"
+  ],
+  "reason": "The paper's focus on cyber risk assessment using the MITRE ATT&CK framework aligns with the CPS scope, and its application to a healthcare organization is relevant to the ARES conference.",
+  "timestamp": "2026-07-05T19:09:59.517986+00:00"
+}

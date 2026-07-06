@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.63,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on enhancing cybersecurity assessment, which aligns well with the CPS domain due to its emphasis on system security and simulation of cyber-physical attacks.",
+  "timestamp": "2026-07-05T19:26:53.031108+00:00"
+}

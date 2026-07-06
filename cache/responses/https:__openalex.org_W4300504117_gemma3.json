@@ -1,0 +1,10 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT"
+  ],
+  "reason": "The paper's focus on cyber ranges and critical infrastructure scenarios aligns with CPS and IoT themes, but lacks specific technical details regarding fault tolerance or blockchain applications within the federation.",
+  "timestamp": "2026-07-05T19:47:11.869169+00:00"
+}

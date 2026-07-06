@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT"
+  ],
+  "reason": "The paper focuses on cyber-resilience and data privacy mechanisms for Vehicle-to-Everything (V2X) technologies, which are relevant to CPS due to their integration into smart grid segments and EVs as energy flexibility resources. It also touches upon IoT aspects with the interconnections between different systems and devices. The mention of blockchain could be seen in the context of secure transactions or data privacy mechanisms within V2X.",
+  "timestamp": "2026-07-05T19:52:04.048450+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.54,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on anomaly detection in cyber range platforms, which aligns with the CPS domain and has relevance to fault tolerance as it deals with robust systems against threats.",
+  "timestamp": "2026-07-05T19:24:18.930014+00:00"
+}

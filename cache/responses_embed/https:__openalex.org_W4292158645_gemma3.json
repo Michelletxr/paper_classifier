@@ -1,0 +1,11 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Blockchain"
+  ],
+  "reason": "The paper's focus on threat intelligence aligns with the broader CPS and IoT landscape, particularly concerning data privacy and security within cyber systems, although the blockchain component feels somewhat tangential.",
+  "timestamp": "2026-07-05T19:16:19.638046+00:00"
+}

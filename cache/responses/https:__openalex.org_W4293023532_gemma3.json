@@ -1,0 +1,11 @@
+{
+  "score": 8,
+  "confidence": 0.95,
+  "domains": [
+    "CPS",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "This paper directly addresses cyber-security concerns within a CPS context – specifically an EPES system utilizing IoT devices and 5G technology, with implications for fault tolerance.",
+  "timestamp": "2026-07-05T19:46:45.097727+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "score": 7,
+  "confidence": 0.85,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on critical infrastructure resilience, which aligns with the CPS domain and includes elements relevant to IoT, Fault Tolerance, and potentially Blockchain for its digital twin concept.",
+  "timestamp": "2026-07-05T19:49:38.061741+00:00"
+}

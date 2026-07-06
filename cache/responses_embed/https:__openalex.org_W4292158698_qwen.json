@@ -1,0 +1,12 @@
+{
+  "score": 6,
+  "confidence": 0.75,
+  "domains": [
+    "CPS",
+    "Blockchain",
+    "IoT",
+    "Fault Tolerance"
+  ],
+  "reason": "The paper focuses on cybersecurity investment strategies, which aligns well with the Game Theoretic Methodology (GTM) for optimal defense strategies and investments, indicating relevance to Cyberphysical Systems (CPS), Fault Tolerance, and possibly Blockchain in terms of strategic decision-making under uncertainty.",
+  "timestamp": "2026-07-05T19:10:05.457671+00:00"
+}
