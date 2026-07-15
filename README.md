@@ -204,8 +204,7 @@ Score_Global = 0.6 × S_Quali + 0.4 × S_Quant
 
 | Peso | Valor | Significado |
 |---|---|---|
-| `C_WEIGHT` | 0.7 | Peso de citações brutas |
-| `V_WEIGHT` | 0.3 | Peso de citações influentes |
+| `S_QUANT` | 1.0 | Peso de citações brutas |
 | `QUALI_WEIGHT` | 0.6 | Peso do score qualitativo (LLM) |
 | `QUANT_WEIGHT` | 0.4 | Peso do score quantitativo (bibliometria) |
 
