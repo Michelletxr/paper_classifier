@@ -196,9 +196,7 @@ MSE = variância residual (within-subjects)
 ### Fórmulas
 
 ```
-C_Norm = (citations / max_citations) × 10
-V_Norm = (influential_citations / max_influential) × 10
-S_Quant = 0.7 × C_Norm + 0.3 × V_Norm
+S_Quant = (citations / max_citations) × 10
 Score_Global = 0.6 × S_Quali + 0.4 × S_Quant
 ```
 
